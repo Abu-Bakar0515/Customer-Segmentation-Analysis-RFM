@@ -1,0 +1,2001 @@
+CustomerID,OrderID,OrderDate,Quantity,OrderPrice,Country,ProductCategory,ProductName,Discount,PaymentMethod,1omerRating
+2003,56717,,1,,Italy,Toys,Action Figure,0,Credit Card,1     
+1303,85713,28/01/2022,5,99.99,Nigeria,Clothing,Jeans,10,Credit Card,  
+2138,72059,15/12/2022,,50,UK,Books,Textbook,10,Cash,5            
+1511,35803,,,50,Canada,Home & Kitchen,Mixer,,Credit Card,1                 
+4503,35554,,,35,Saudi Arabia,Toys,Puzzle,5,Cash,3  
+1723,61215,10/26/2023,,,Spain,Clothing,Jacket,15,Cash,   
+4452,31525,29/11/2022,2,,China,Toys,Board Game,0,Debit Card,5
+,59363,5/27/2023,2,,Indonesia,Toys,Doll,,,3  
+2482,83392,2/13/2023,4,99.99,UK,Toys,Board Game,5,Debit Card,
+,84676,,5,10,Indonesia,Toys,Toy Car,0,,  
+1647,67261,,1,35,UK,Home & Kitchen,Toaster,,Cash,
+2531,85348,,5,20.5,UAE,Toys,Board Game,15,Credit Card,1
+4596,55613,,2,10,,Home & Kitchen,Toaster,5,Debit Card,
+,63880,,2,35,Japan,Sports,Yoga Mat,15,Cash,4
+1262,88555,8/19/2022,1,20.5,USA,Beauty,Moisturizer,,Credit Card,2
+,81812,,,35,Nigeria,Electronics,Mobile Phone,,Paypal,2
+1199,36804,14/07/2022,,50,Spain,Books,Comics,,Credit Card,
+2389,66295,,1,50,Spain,Toys,Action Figure,5,Paypal,2
+1927,56416,3/19/2022,2,N/A,,Home & Kitchen,Pan Set,5,Debit Card,4
+4696,31035,15/02/2023,2,N/A,,Sports,Gym Gloves,15,Cash,4
+,64267,,,,UAE,Toys,Board Game,0,Credit Card,5
+1232,62178,,,99.99,Australia,Sports,Yoga Mat,15,Credit Card,5
+1529,39565,27/09/2023,5,10,Canada,Clothing,Cap,,Cash,2
+,31152,,2,,Nigeria,Home & Kitchen,Pan Set,0,Credit Card,5
+4608,74217,24/12/2022,3,20.5,South Africa,Clothing,Cap,,Cash,5
+1406,33200,4/16/2024,1,,UK,Books,Magazine,,,2
+1308,39280,5/1/2024,5,20.5,India,Home & Kitchen,Toaster,0,Paypal,
+,38239,,1,35,Pakistan,Home & Kitchen,Mixer,0,Credit Card,
+3385,78166,14/01/2023,1,N/A,Saudi Arabia,Clothing,Cap,0,Cash,2
+,60128,12/29/2022,,10,Italy,Toys,Puzzle,0,Debit Card,
+4010,67485,3/6/2024,,,India,Home & Kitchen,Pan Set,15,Debit Card,2
+4257,64609,20/04/2024,3,35,UAE,Books,Comics,10,Credit Card,
+1963,71702,14/02/2023,,99.99,France,Home & Kitchen,Toaster,,Cash,1
+,89728,17/01/2024,4,35,Nigeria,Electronics,Power Bank,5,Cash,1
+1803,36967,4/5/2024,1,99.99,Nepal,Toys,Toy Car,10,,3
+,37592,,,35,Germany,Toys,Action Figure,5,Paypal,
+2663,69914,5/11/2022,5,99.99,,Sports,Cricket Bat,,,
+,32389,,4,50,Nepal,Home & Kitchen,Pan Set,,,3
+4303,51600,19/08/2022,,35,Bangladesh,Electronics,Laptop,0,Paypal,4
+,65989,12/15/2023,2,,,Toys,Board Game,15,Debit Card,2
+2020,33184,,4,10,Mexico,Books,Magazine,,,3
+,85905,,5,N/A,Brazil,Books,Comics,15,Cash,
+2984,67996,,,N/A,Japan,Clothing,Jacket,5,Cash,3
+1492,60014,4/6/2022,1,20.5,Italy,Home & Kitchen,Vacuum Cleaner,10,,4
+1888,37232,3/7/2023,2,N/A,Saudi Arabia,Sports,Football,10,Paypal,
+1919,64453,23/01/2024,5,,Italy,Books,Comics,15,Credit Card,4
+1230,31441,,,20.5,Nigeria,Home & Kitchen,Pan Set,,Credit Card,1
+,74844,18/04/2023,2,N/A,UAE,Toys,Toy Car,10,Paypal,3
+1119,31853,3/25/2022,3,N/A,Sri Lanka,Books,Comics,0,Credit Card,
+3544,58272,,2,N/A,Canada,Electronics,Laptop,15,Cash,
+3942,70384,5/2/2024,5,99.99,Nigeria,Home & Kitchen,Microwave,,Paypal,4
+4402,56678,,1,99.99,,Toys,Puzzle,0,Cash,5
+,32729,26/10/2023,1,99.99,Sri Lanka,Sports,Tennis Racket,15,Debit Card,4
+,38136,23/09/2023,,35,Australia,Clothing,Cap,0,Cash,4
+2552,82394,16/11/2023,5,99.99,Canada,Clothing,Hoodie,10,Cash,3
+1041,34954,24/07/2023,,35,South Africa,Home & Kitchen,Vacuum Cleaner,5,Paypal,
+1381,34986,,4,N/A,Nigeria,Toys,Toy Car,10,Paypal,5
+1460,35438,18/07/2023,4,,Australia,Beauty,Lipstick,0,Debit Card,3
+1321,35530,7/9/2022,,,Canada,Electronics,Power Bank,10,Debit Card,3
+1518,53573,,1,,,Clothing,Jacket,15,Credit Card,
+2804,35136,5/6/2023,3,50,USA,Electronics,Power Bank,15,Paypal,1
+3305,32940,,2,20.5,Bangladesh,Beauty,Face Wash,,Debit Card,
+,70013,11/1/2022,4,50,Sri Lanka,Beauty,Moisturizer,5,Cash,
+1307,38381,20/07/2023,2,20.5,India,Electronics,Laptop,5,Cash,
+1370,34241,8/28/2022,1,,South Africa,Home & Kitchen,Pan Set,5,Debit Card,3
+1414,35728,6/19/2022,1,10,Spain,Books,Textbook,,Cash,
+1182,38078,,5,99.99,China,Sports,Tennis Racket,0,Credit Card,2
+,87764,23/02/2024,5,10,Mexico,Toys,Board Game,,Paypal,3
+,37690,13/04/2024,4,,Nepal,Clothing,Cap,0,Debit Card,3
+1878,52404,15/02/2023,3,,China,Sports,Gym Gloves,10,Credit Card,
+,77082,,,10,Saudi Arabia,Sports,Yoga Mat,,Paypal,
+,81766,,2,35,Bangladesh,Sports,Football,5,Debit Card,3
+1920,80241,6/4/2022,5,50,Malaysia,Beauty,Face Wash,10,,
+1567,59479,,,50,Mexico,Home & Kitchen,Pan Set,,Debit Card,
+1448,31042,,,N/A,Japan,Electronics,Headphones,,,
+1440,37180,11/5/2023,4,99.99,Canada,Sports,Cricket Bat,,Debit Card,5
+1425,37246,,,N/A,,Sports,Cricket Bat,,Debit Card,4
+,39617,12/6/2022,5,99.99,Indonesia,Electronics,Laptop,5,Paypal,
+,32315,,1,50,South Africa,Toys,Puzzle,15,Cash,
+3529,68833,6/2/2022,,99.99,UK,Toys,Toy Car,,Credit Card,4
+,37141,11/29/2022,1,10,Australia,Clothing,Jacket,,Paypal,5
+,65783,3/22/2022,2,20.5,Spain,Toys,Puzzle,,Cash,4
+3775,38237,,,50,Japan,Home & Kitchen,Mixer,,Paypal,
+,34886,,,35,Saudi Arabia,Home & Kitchen,Pan Set,,Cash,
+1108,39138,2/10/2023,,,Bangladesh,Home & Kitchen,Mixer,10,Debit Card,
+1885,58963,13/02/2024,3,,,Clothing,Cap,15,Credit Card,5
+4061,33165,,1,35,Mexico,Home & Kitchen,Microwave,10,Debit Card,3
+4565,80692,2/4/2024,,35,Nepal,Books,Comics,,Paypal,
+,33024,20/03/2024,3,10,Nepal,Books,Magazine,,Cash,5
+1125,86792,,1,,USA,Sports,Tennis Racket,,Paypal,
+,82284,2/16/2022,1,20.5,South Africa,Home & Kitchen,Pan Set,5,Paypal,4
+,39017,31/01/2024,4,99.99,India,Home & Kitchen,Vacuum Cleaner,,Cash,2
+,85682,7/1/2023,2,N/A,China,Sports,Gym Gloves,5,Credit Card,
+1754,31828,8/6/2022,1,,Germany,Books,Comics,,Debit Card,1
+4330,71532,10/8/2022,2,99.99,Germany,Books,Magazine,5,,3
+1105,34898,6/6/2024,1,,France,Books,Textbook,10,Credit Card,2
+,73726,3/2/2024,5,10,Mexico,Toys,Toy Car,5,,1
+4948,37580,,3,50,UK,Toys,Board Game,15,Paypal,1
+1381,39984,9/3/2022,5,20.5,Bangladesh,Electronics,Headphones,,Cash,4
+1217,34522,23/03/2024,4,10,Australia,Beauty,Hair Oil,15,Cash,
+,66704,,4,,Brazil,Sports,Gym Gloves,0,Credit Card,
+4026,31982,,4,10,UK,Electronics,Mobile Phone,15,Cash,
+1394,70476,,,,Mexico,Toys,Toy Car,5,Debit Card,
+,57529,25/12/2022,,10,South Africa,Sports,Cricket Bat,,,
+,33955,,1,99.99,,Toys,Board Game,10,Cash,3
+3692,59297,,,20.5,Mexico,Electronics,Laptop,5,Paypal,4
+1432,89074,11/16/2022,2,35,France,Sports,Tennis Racket,,Credit Card,
+,77143,,4,,UK,Electronics,Headphones,10,Paypal,1
+2263,75903,11/15/2023,4,99.99,Japan,Home & Kitchen,Vacuum Cleaner,5,Debit Card,
+,33116,,3,10,Malaysia,Home & Kitchen,Toaster,5,,5
+,51228,1/6/2024,1,50,Nigeria,Books,Notebook,15,,4
+1085,80152,19/02/2023,3,10,UK,Toys,Toy Car,5,Paypal,5
+,64520,6/10/2024,1,50,Mexico,Sports,Yoga Mat,,Credit Card,5
+1938,59679,12/26/2022,,35,China,Beauty,Perfume,5,Debit Card,5
+1575,38354,,2,N/A,UAE,Clothing,T-Shirt,5,Paypal,1
+2125,73064,26/03/2024,,35,Spain,Sports,Gym Gloves,15,Credit Card,1
+1192,39307,3/6/2024,1,,Nigeria,Home & Kitchen,Toaster,,Credit Card,4
+1587,32013,11/26/2022,,20.5,,Books,Magazine,10,Credit Card,5
+1549,33600,26/12/2023,1,20.5,Japan,Toys,Puzzle,15,Paypal,
+3651,32548,9/10/2023,1,N/A,China,Home & Kitchen,Vacuum Cleaner,,,
+,75687,11/11/2023,1,99.99,South Africa,Clothing,Jacket,15,Cash,
+,36940,11/18/2023,1,,Canada,Clothing,Cap,10,Paypal,2
+4458,83271,,2,10,UAE,Clothing,Jeans,,Debit Card,5
+1889,60848,1/5/2024,2,20.5,Saudi Arabia,Sports,Cricket Bat,,Debit Card,4
+1339,36070,3/13/2024,,,Saudi Arabia,Beauty,Lipstick,,,4
+3160,33267,5/30/2023,,50,Sri Lanka,Sports,Tennis Racket,15,Cash,5
+1343,67877,19/10/2022,,10,USA,Electronics,Power Bank,5,Paypal,3
+,55348,5/30/2023,1,50,UAE,Electronics,Smart Watch,0,Cash,
+2935,80743,4/29/2024,1,35,Pakistan,Clothing,Jeans,10,Debit Card,
+,65573,6/25/2023,,99.99,Australia,Clothing,Cap,15,,4
+1116,83775,4/9/2023,,50,Italy,Electronics,Mobile Phone,0,,3
+1187,73632,12/11/2023,4,20.5,Brazil,Clothing,Cap,0,Paypal,3
+1346,56793,3/11/2022,3,N/A,Saudi Arabia,Home & Kitchen,Mixer,,Cash,
+,61945,,,N/A,,Toys,Puzzle,15,Credit Card,3
+1417,39897,12/2/2022,,20.5,India,Clothing,T-Shirt,,Debit Card,3
+,37553,6/12/2022,,,UAE,Home & Kitchen,Mixer,5,Paypal,
+1184,32293,,,99.99,France,Sports,Tennis Racket,,Cash,3
+1556,33730,30/10/2022,3,,Spain,Electronics,Mobile Phone,0,Cash,5
+1787,76621,2/28/2022,,N/A,Germany,Sports,Tennis Racket,,Paypal,1
+,87174,,2,N/A,Spain,Clothing,T-Shirt,10,Cash,4
+,68264,6/27/2023,5,20.5,Indonesia,Books,Novel,5,Paypal,5
+,35678,3/4/2024,1,35,UK,Sports,Yoga Mat,5,Credit Card,4
+,32063,30/11/2023,1,N/A,France,Clothing,Hoodie,,Debit Card,
+4244,31430,,2,10,Nigeria,Home & Kitchen,Vacuum Cleaner,10,Paypal,
+1507,39612,9/3/2022,5,10,Nigeria,Beauty,Perfume,0,Debit Card,3
+3119,86130,28/11/2023,4,50,Mexico,Toys,Action Figure,0,Credit Card,5
+4828,39501,11/27/2022,2,20.5,China,Clothing,Jacket,5,,3
+3058,88784,,5,99.99,Bangladesh,Clothing,Jacket,,,3
+1116,87799,,1,N/A,Italy,Books,Magazine,,Credit Card,4
+1350,35873,11/6/2022,3,,Malaysia,Toys,Board Game,0,Debit Card,4
+,36658,12/15/2022,4,20.5,,Sports,Gym Gloves,10,,5
+2095,59232,6/5/2022,2,50,Turkey,Electronics,Headphones,,Paypal,2
+3953,39163,15/08/2023,,35,Japan,Books,Textbook,15,Credit Card,1
+3389,35609,,4,20.5,Sri Lanka,Sports,Yoga Mat,,Paypal,3
+1370,37606,3/18/2023,,10,Turkey,Beauty,Face Wash,0,,5
+,86035,3/17/2022,5,35,UK,Clothing,Jacket,15,Cash,
+1716,76305,5/28/2022,3,N/A,India,Home & Kitchen,Vacuum Cleaner,5,Cash,
+4658,71493,13/09/2023,4,20.5,Bangladesh,Sports,Yoga Mat,,Cash,5
+1825,69647,30/06/2023,,99.99,UAE,Home & Kitchen,Vacuum Cleaner,,Credit Card,4
+3818,38775,,,,,Beauty,Lipstick,,,2
+1744,74916,6/24/2022,5,50,Nigeria,Toys,Action Figure,,Credit Card,2
+2691,39221,,3,50,Indonesia,Electronics,Smart Watch,0,Debit Card,5
+,38531,,3,,Saudi Arabia,Clothing,Cap,,Cash,5
+,34396,26/07/2023,2,35,Brazil,Sports,Cricket Bat,10,,
+,75856,11/8/2023,3,10,India,Toys,Doll,10,Credit Card,3
+1947,67768,8/8/2022,,50,Bangladesh,Sports,Tennis Racket,,,2
+3613,37771,,,99.99,Brazil,Clothing,T-Shirt,0,Debit Card,1
+1588,35706,18/06/2024,4,,Sri Lanka,Beauty,Perfume,0,Credit Card,
+4482,77386,11/1/2024,5,,,Beauty,Perfume,15,Debit Card,
+3326,35662,,1,10,South Africa,Books,Notebook,,Paypal,2
+,38518,,4,35,France,Books,Magazine,0,Cash,
+1725,38007,7/17/2022,,N/A,Turkey,Home & Kitchen,Vacuum Cleaner,,Credit Card,2
+2068,35374,7/1/2022,3,20.5,Nigeria,Clothing,Hoodie,,,1
+,33616,,,20.5,Mexico,Home & Kitchen,Toaster,,Cash,
+,38454,15/08/2022,3,99.99,Malaysia,Electronics,Headphones,,Paypal,
+4091,38319,11/28/2023,,20.5,Nigeria,Beauty,Perfume,0,Credit Card,
+,84101,,2,99.99,Canada,Beauty,Hair Oil,,,4
+1235,77225,,4,N/A,Spain,Electronics,Power Bank,,Cash,
+1323,31742,4/1/2022,3,N/A,Malaysia,Electronics,Smart Watch,0,,1
+1737,37135,23/02/2023,1,35,Turkey,Electronics,Smart Watch,15,Credit Card,
+2424,85209,,2,,Australia,Toys,Board Game,0,Credit Card,3
+4372,80187,24/01/2023,4,99.99,Canada,Sports,Yoga Mat,,Credit Card,1
+1985,31550,,5,N/A,Nepal,Books,Comics,,Credit Card,2
+3210,39255,8/28/2022,4,50,Indonesia,Toys,Action Figure,,Cash,5
+1776,37775,16/06/2024,2,35,India,Beauty,Lipstick,,,
+1452,39592,,5,50,Italy,Clothing,Hoodie,15,Debit Card,3
+1987,33365,4/30/2023,,99.99,South Africa,Sports,Cricket Bat,15,Paypal,5
+1438,38369,9/19/2022,4,20.5,South Africa,Beauty,Perfume,,Debit Card,1
+1161,34555,9/10/2023,,99.99,UAE,Home & Kitchen,Pan Set,10,Credit Card,2
+1348,34350,5/6/2023,,N/A,South Africa,Clothing,T-Shirt,10,Cash,4
+1468,82589,,,35,Brazil,Sports,Yoga Mat,10,Debit Card,3
+1906,35272,3/6/2024,1,99.99,Germany,Home & Kitchen,Pan Set,5,Cash,2
+1770,35216,,,20.5,Sri Lanka,Sports,Yoga Mat,,Paypal,4
+3238,85529,1/8/2024,2,20.5,Nepal,Clothing,Jacket,0,Credit Card,4
+1323,79885,,1,,Sri Lanka,Clothing,Jeans,,,4
+3259,39673,,1,10,Japan,Toys,Toy Car,0,,
+1198,59758,,,20.5,Mexico,Toys,Toy Car,10,Cash,3
+2880,64801,,1,35,Sri Lanka,Books,Comics,0,Credit Card,4
+1109,32354,27/02/2022,5,50,Sri Lanka,Sports,Gym Gloves,10,,
+1988,38790,8/5/2022,1,20.5,USA,Electronics,Power Bank,,Cash,5
+1312,59449,19/11/2022,2,N/A,France,Beauty,Face Wash,,Debit Card,5
+1873,32284,12/6/2022,,99.99,UK,Books,Comics,15,Debit Card,
+,31485,21/09/2023,5,N/A,Brazil,Electronics,Headphones,5,Cash,5
+3706,69357,8/23/2023,2,,China,Sports,Gym Gloves,5,Paypal,
+2477,36050,21/11/2022,,50,,Books,Textbook,10,Credit Card,2
+,56769,25/07/2023,4,50,South Africa,Electronics,Laptop,0,,5
+,55550,,,50,Turkey,Books,Notebook,5,Debit Card,3
+,35911,3/6/2022,4,20.5,Saudi Arabia,Home & Kitchen,Toaster,10,Debit Card,
+2875,31110,20/07/2022,5,99.99,Bangladesh,Toys,Toy Car,15,Cash,4
+3666,69689,30/05/2024,,N/A,UAE,Home & Kitchen,Pan Set,5,Paypal,3
+,75751,,5,N/A,Canada,Home & Kitchen,Pan Set,,,2
+4862,78734,18/04/2023,1,,Nepal,Toys,Board Game,15,Debit Card,
+,38357,,3,,Turkey,Home & Kitchen,Microwave,,,
+1468,85186,3/20/2024,5,10,Nepal,Toys,Toy Car,,Cash,2
+,71731,10/23/2023,1,99.99,UK,Toys,Board Game,10,Debit Card,5
+,37408,,5,99.99,Nigeria,Toys,Board Game,,,2
+2703,36707,30/10/2022,4,10,Spain,Home & Kitchen,Mixer,5,,4
+,54402,,1,50,UK,Home & Kitchen,Pan Set,0,Cash,
+1714,37985,6/13/2023,,20.5,,Electronics,Laptop,15,Debit Card,2
+,38037,1/26/2024,4,10,Malaysia,Toys,Toy Car,5,Debit Card,3
+4571,73972,29/03/2024,5,10,UK,Books,Novel,10,Paypal,5
+2607,36766,,5,50,France,Toys,Doll,,Cash,5
+,33999,,,20.5,Germany,Beauty,Face Wash,,Paypal,4
+1598,85217,10/3/2023,5,50,Japan,Beauty,Perfume,5,Debit Card,3
+,34196,,5,10,Mexico,Books,Comics,,Paypal,4
+2818,55417,10/5/2024,4,,India,Toys,Toy Car,10,Debit Card,5
+,86026,,,50,UK,Home & Kitchen,Microwave,10,,
+,34580,2/12/2022,,N/A,Indonesia,Home & Kitchen,Vacuum Cleaner,,Debit Card,3
+4531,78774,12/23/2022,4,35,,Books,Novel,,,
+3523,31972,,,50,China,Home & Kitchen,Vacuum Cleaner,,,2
+1978,33221,10/1/2022,3,99.99,China,Home & Kitchen,Toaster,,Debit Card,
+2319,75736,,2,20.5,Sri Lanka,Books,Textbook,10,Paypal,4
+1512,37046,27/02/2024,,N/A,UAE,Sports,Football,,Credit Card,
+,39756,10/13/2023,,50,Italy,Books,Novel,5,Paypal,3
+,72527,8/15/2023,3,99.99,Sri Lanka,Home & Kitchen,Toaster,15,Credit Card,1
+4924,58645,1/1/2022,4,50,USA,Books,Textbook,,Cash,3
+1505,34836,,,,USA,Electronics,Headphones,,Credit Card,1
+1631,79167,,1,20.5,UAE,Clothing,Hoodie,0,Paypal,
+1365,36133,28/01/2023,1,20.5,Germany,Clothing,Hoodie,15,Debit Card,
+1724,38210,,1,99.99,Canada,Toys,Puzzle,,Debit Card,4
+4672,37291,30/03/2022,,20.5,UAE,Beauty,Moisturizer,5,Debit Card,3
+1838,31439,9/8/2023,2,99.99,Mexico,Toys,Action Figure,,,2
+4210,82432,2/25/2022,3,,Brazil,Toys,Toy Car,,,1
+1981,77581,16/05/2022,3,35,,Beauty,Face Wash,0,Credit Card,5
+,35693,10/2/2022,3,20.5,Malaysia,Electronics,Mobile Phone,15,Credit Card,
+1342,83508,,5,20.5,UAE,Beauty,Hair Oil,15,,
+3989,53794,24/03/2023,3,,UK,Books,Novel,15,,5
+4033,50830,11/5/2023,,,Brazil,Electronics,Headphones,10,,5
+,31480,10/5/2022,2,35,China,Books,Notebook,,Credit Card,3
+,53633,24/05/2023,,10,France,Toys,Board Game,10,Credit Card,5
+1010,31753,6/6/2023,2,,Turkey,Toys,Action Figure,5,Debit Card,
+3685,35067,,,,UAE,Electronics,Power Bank,10,Credit Card,5
+1328,53009,23/02/2022,5,,Japan,Home & Kitchen,Mixer,10,Cash,1
+,38600,,1,35,Brazil,Beauty,Moisturizer,5,,
+1338,31157,2/24/2023,2,10,,Books,Textbook,,Paypal,
+,33332,6/27/2023,1,20.5,India,Toys,Doll,5,,4
+1197,58749,,4,,Nigeria,Toys,Doll,0,Paypal,
+,36211,21/05/2024,3,35,Australia,Clothing,Jeans,0,Debit Card,2
+,70580,,1,20.5,Saudi Arabia,Books,Magazine,5,Paypal,3
+1926,69937,3/4/2022,,10,Germany,Sports,Tennis Racket,0,Debit Card,3
+2065,37625,,1,,Indonesia,Sports,Yoga Mat,,Debit Card,1
+1497,64567,24/05/2022,,N/A,Saudi Arabia,Sports,Football,,Credit Card,5
+1302,79060,23/01/2022,,10,UK,Beauty,Lipstick,0,Paypal,1
+2617,75082,12/1/2024,4,N/A,Canada,Clothing,Cap,5,Cash,3
+1351,39173,,1,99.99,Brazil,Sports,Cricket Bat,0,Credit Card,3
+1916,66328,21/10/2023,4,20.5,,Sports,Cricket Bat,,Cash,4
+,31427,,3,99.99,Australia,Beauty,Moisturizer,0,Cash,1
+3392,56562,25/02/2024,5,35,South Africa,Books,Comics,,Credit Card,
+2453,34875,,,N/A,Malaysia,Clothing,Cap,10,,1
+,85528,26/05/2022,5,99.99,India,Toys,Doll,0,Credit Card,2
+1439,33137,,1,99.99,France,Beauty,Perfume,10,Credit Card,1
+1966,32188,,,20.5,Nepal,Clothing,Cap,15,,1
+1547,81929,,3,20.5,South Africa,Home & Kitchen,Toaster,,,
+,69301,,,99.99,Pakistan,Home & Kitchen,Microwave,,,4
+1928,32705,9/9/2023,1,20.5,UAE,Books,Magazine,,Credit Card,2
+1825,72003,1/4/2022,2,,Canada,Home & Kitchen,Toaster,5,Credit Card,3
+1548,33725,19/02/2022,,10,Turkey,Home & Kitchen,Mixer,10,,4
+1876,33664,8/15/2023,,N/A,,Electronics,Smart Watch,0,Cash,1
+1696,54915,17/12/2022,1,10,Bangladesh,Home & Kitchen,Toaster,,Paypal,
+4644,32659,9/14/2023,,20.5,Canada,Electronics,Smart Watch,15,,
+2218,37437,10/16/2022,3,,India,Toys,Board Game,10,Credit Card,4
+3458,56356,10/3/2023,,,Sri Lanka,Electronics,Headphones,10,Credit Card,4
+1600,32493,2/12/2023,3,N/A,Saudi Arabia,Books,Novel,15,Cash,2
+,86978,,3,50,Nepal,Sports,Football,0,Credit Card,
+1931,39561,,4,N/A,Nepal,Home & Kitchen,Vacuum Cleaner,15,,2
+1135,87435,5/24/2024,1,50,,Sports,Tennis Racket,15,Debit Card,2
+,33422,10/3/2023,2,10,Indonesia,Clothing,Jeans,0,Credit Card,4
+,39561,5/27/2024,5,35,Italy,Beauty,Moisturizer,5,Debit Card,5
+3304,39775,19/04/2022,,10,China,Beauty,Hair Oil,15,Paypal,5
+1247,89888,10/10/2022,1,20.5,UAE,Beauty,Moisturizer,,Debit Card,1
+,35593,,3,35,Nepal,Toys,Toy Car,0,Debit Card,2
+,89647,25/11/2022,,N/A,Canada,Home & Kitchen,Pan Set,15,Paypal,
+4241,39303,6/12/2023,,10,,Beauty,Lipstick,,,1
+1236,31828,,,20.5,Canada,Clothing,Jeans,10,Cash,
+3790,39008,5/7/2022,4,,Brazil,Sports,Yoga Mat,,,3
+4403,31449,2/6/2024,,35,France,Home & Kitchen,Microwave,,Debit Card,
+1519,31145,10/3/2022,,20.5,Sri Lanka,Clothing,Jeans,5,,
+1412,37943,4/4/2024,3,99.99,Spain,Electronics,Laptop,10,Debit Card,4
+3394,37131,11/2/2023,,99.99,Nepal,Home & Kitchen,Vacuum Cleaner,0,Paypal,1
+1367,69581,,,35,,Home & Kitchen,Toaster,5,Credit Card,
+1243,39148,24/11/2022,4,,Italy,Books,Magazine,15,Paypal,
+1451,39759,,,99.99,Saudi Arabia,Electronics,Power Bank,,Cash,
+1231,33999,,2,35,USA,Clothing,Cap,5,Cash,2
+1366,69270,6/12/2022,4,N/A,India,Toys,Doll,,,5
+1988,39680,28/05/2023,4,20.5,India,Beauty,Face Wash,5,Debit Card,2
+1983,32324,27/05/2022,5,50,Sri Lanka,Home & Kitchen,Pan Set,5,Cash,
+4117,33595,8/3/2022,4,35,Germany,Electronics,Mobile Phone,,Paypal,
+1138,63068,28/01/2023,4,50,,Sports,Gym Gloves,,Debit Card,1
+,70453,12/9/2022,,,Mexico,Toys,Action Figure,,Cash,2
+1632,36535,,3,35,Germany,Electronics,Mobile Phone,10,Paypal,3
+1078,58598,,2,N/A,Mexico,Books,Textbook,5,Credit Card,3
+1647,53184,,4,,Pakistan,Toys,Action Figure,0,Credit Card,4
+2943,31152,16/09/2022,1,99.99,Nepal,Sports,Gym Gloves,0,,3
+1207,57715,3/5/2023,,20.5,Brazil,Beauty,Hair Oil,5,,2
+,69356,,,99.99,Brazil,Books,Notebook,5,Paypal,3
+1213,82381,,1,,USA,Clothing,T-Shirt,,Credit Card,3
+2901,31646,28/09/2022,4,35,,Toys,Puzzle,,Cash,4
+4646,33793,16/02/2024,1,N/A,Spain,Toys,Action Figure,,Cash,
+,35453,,,35,Brazil,Electronics,Headphones,15,Debit Card,1
+,87286,,,20.5,Turkey,Clothing,T-Shirt,10,,1
+,32037,,4,50,UAE,Books,Textbook,0,,
+,84019,18/08/2022,,99.99,Nepal,Toys,Board Game,,Debit Card,4
+3286,33571,26/04/2024,2,N/A,France,Home & Kitchen,Pan Set,0,Paypal,3
+1663,74814,6/4/2023,3,10,Spain,Clothing,Jacket,15,,4
+1863,32681,2/5/2022,4,35,India,Electronics,Smart Watch,,,1
+1411,34389,26/09/2023,,99.99,Saudi Arabia,Books,Novel,0,Debit Card,
+1584,73808,9/27/2023,5,N/A,,Sports,Tennis Racket,,Debit Card,1
+1660,74503,3/30/2024,,,Brazil,Home & Kitchen,Toaster,5,Paypal,1
+,64128,,2,20.5,UAE,Home & Kitchen,Vacuum Cleaner,0,Paypal,1
+1774,33205,4/7/2023,1,N/A,Mexico,Toys,Board Game,,Credit Card,5
+1281,87916,3/10/2024,4,99.99,Turkey,Sports,Yoga Mat,,,5
+4751,37518,16/09/2023,4,50,Spain,Home & Kitchen,Vacuum Cleaner,5,Debit Card,4
+,86279,12/20/2023,3,N/A,Bangladesh,Beauty,Hair Oil,,Cash,
+1655,32890,,,,Brazil,Home & Kitchen,Microwave,,,
+,50836,5/11/2024,,,Turkey,Toys,Toy Car,5,Credit Card,
+1393,66420,,3,N/A,,Electronics,Laptop,10,Debit Card,
+1730,34675,4/9/2023,3,N/A,Mexico,Beauty,Face Wash,,Cash,
+1907,70490,,4,50,China,Toys,Action Figure,5,,
+1826,74100,,,20.5,Canada,Books,Comics,10,Paypal,2
+,38020,,2,20.5,China,Toys,Action Figure,5,Debit Card,5
+3906,60073,,1,35,Bangladesh,Books,Notebook,,Cash,4
+,84432,,5,35,USA,Books,Magazine,,Debit Card,4
+1318,36424,24/12/2022,4,10,Canada,Beauty,Hair Oil,,,4
+1346,31653,21/12/2022,1,,,Beauty,Face Wash,0,Paypal,3
+1483,38300,4/21/2024,1,99.99,Japan,Beauty,Lipstick,,Debit Card,3
+3203,54290,,1,20.5,Italy,Beauty,Face Wash,0,Debit Card,5
+4059,38523,3/15/2022,,N/A,USA,Books,Comics,0,Credit Card,2
+,37357,,5,10,Turkey,Books,Notebook,15,Cash,1
+3950,88378,19/10/2023,5,10,Mexico,Sports,Football,0,Cash,
+,31504,10/16/2022,5,10,South Africa,Toys,Doll,5,Debit Card,
+1793,74453,5/28/2022,3,,India,Sports,Yoga Mat,0,,5
+1866,34469,,5,10,Mexico,Sports,Yoga Mat,5,Debit Card,2
+1285,31891,,,35,South Africa,Clothing,Cap,0,Cash,
+,73405,1/14/2024,1,20.5,Japan,Electronics,Headphones,,Credit Card,2
+1413,33496,24/09/2023,4,35,Italy,Home & Kitchen,Pan Set,5,Credit Card,3
+,36432,19/10/2023,,,Spain,Clothing,Jeans,10,Cash,4
+,59175,14/09/2023,2,,Indonesia,Beauty,Face Wash,,Credit Card,
+1932,87938,10/9/2023,,99.99,South Africa,Electronics,Mobile Phone,10,,5
+1890,33193,,3,50,Mexico,Sports,Cricket Bat,0,Paypal,3
+1925,60868,18/05/2024,,20.5,France,Beauty,Face Wash,5,,5
+4846,64340,5/11/2023,,,China,Toys,Puzzle,10,Debit Card,1
+,31653,1/5/2023,5,N/A,Malaysia,Toys,Puzzle,,Cash,
+1485,74806,,5,99.99,China,Toys,Doll,15,Debit Card,5
+,89597,20/12/2022,,N/A,France,Sports,Tennis Racket,5,Credit Card,5
+1470,34773,11/7/2022,2,20.5,Indonesia,Toys,Doll,0,Paypal,
+,51471,6/15/2022,2,99.99,Nigeria,Sports,Gym Gloves,,Debit Card,2
+,39464,,1,99.99,Nigeria,Toys,Board Game,,Credit Card,
+,34594,,1,20.5,Germany,Toys,Doll,,Debit Card,5
+,89094,12/1/2024,3,20.5,Turkey,Toys,Board Game,5,Credit Card,1
+2719,89682,2/12/2023,,99.99,Bangladesh,Clothing,Cap,,Credit Card,
+2975,89549,,,10,Sri Lanka,Beauty,Hair Oil,15,,4
+,74984,16/03/2023,,99.99,Germany,Home & Kitchen,Mixer,10,Paypal,
+,62387,,3,99.99,Mexico,Clothing,T-Shirt,0,,1
+2674,37980,20/11/2022,,N/A,South Africa,Sports,Cricket Bat,15,,3
+1523,86540,13/02/2024,,50,South Africa,Beauty,Lipstick,,Paypal,3
+2630,34764,,3,N/A,France,Home & Kitchen,Vacuum Cleaner,0,Debit Card,5
+1800,33633,,,99.99,Pakistan,Sports,Tennis Racket,0,Debit Card,4
+1908,31618,27/09/2022,1,10,Bangladesh,Beauty,Moisturizer,,,3
+,78768,,1,N/A,,Toys,Board Game,,Cash,2
+1948,52363,,5,99.99,Pakistan,Electronics,Power Bank,5,Credit Card,3
+2660,83930,2/9/2023,3,,South Africa,Books,Comics,10,,5
+,31076,8/20/2022,,35,Italy,Home & Kitchen,Toaster,,Credit Card,5
+,35098,30/04/2022,3,35,Nigeria,Electronics,Power Bank,15,Debit Card,
+,57619,24/08/2023,,50,Sri Lanka,Home & Kitchen,Pan Set,5,Debit Card,
+,66269,3/7/2023,3,99.99,Nepal,Home & Kitchen,Pan Set,,Cash,1
+,34115,,4,35,Canada,Beauty,Perfume,5,Debit Card,
+1956,73332,5/4/2024,2,20.5,USA,Home & Kitchen,Microwave,,Paypal,5
+,35501,5/9/2023,1,N/A,,Electronics,Power Bank,,Cash,4
+,31533,23/06/2023,2,10,Nepal,Clothing,Cap,5,Paypal,1
+1112,63811,7/12/2023,4,35,Saudi Arabia,Toys,Board Game,,Cash,2
+,34013,28/04/2023,2,35,Canada,Beauty,Lipstick,15,Cash,3
+1234,32636,7/4/2022,3,50,South Africa,Books,Comics,15,Paypal,2
+,39470,10/1/2022,4,N/A,Japan,Clothing,Jeans,10,,
+1669,66665,9/12/2023,4,10,Indonesia,Beauty,Face Wash,10,Cash,3
+,57945,,5,N/A,Nigeria,Home & Kitchen,Vacuum Cleaner,,,2
+1599,32284,,3,35,Japan,Books,Notebook,15,Debit Card,
+3341,33654,9/20/2023,4,,UAE,Clothing,Jacket,10,Cash,
+,39535,5/10/2022,,50,France,Home & Kitchen,Vacuum Cleaner,5,Credit Card,2
+3870,33734,2/1/2024,,35,UK,Toys,Puzzle,0,Paypal,5
+4133,67200,,,50,Turkey,Electronics,Mobile Phone,10,Debit Card,2
+1537,31575,10/5/2022,4,,Brazil,Toys,Doll,15,,3
+1705,38126,7/7/2023,2,,Brazil,Beauty,Moisturizer,,Debit Card,
+,50691,27/02/2023,3,35,Japan,Electronics,Smart Watch,15,,1
+,69196,,,50,Saudi Arabia,Toys,Toy Car,5,Paypal,5
+,34614,1/3/2024,2,20.5,Italy,Sports,Gym Gloves,,Debit Card,5
+1391,35404,12/3/2023,,,USA,Books,Magazine,5,Debit Card,3
+,62306,10/6/2022,5,50,India,Electronics,Smart Watch,,Credit Card,2
+2795,65257,1/3/2024,3,20.5,Brazil,Electronics,Headphones,5,Cash,4
+,55257,15/12/2023,3,50,,Home & Kitchen,Pan Set,15,Credit Card,5
+4347,35078,14/09/2022,2,N/A,Australia,Sports,Cricket Bat,,Credit Card,2
+1498,70454,,5,,Indonesia,Sports,Football,0,,5
+1813,64272,,4,,Italy,Electronics,Headphones,10,Credit Card,2
+4232,52752,10/2/2023,5,10,,Books,Notebook,0,Debit Card,2
+1877,31979,,,99.99,Germany,Sports,Football,,,
+1907,72761,11/21/2022,4,20.5,Malaysia,Electronics,Laptop,15,Cash,
+,85568,,1,50,France,Clothing,Jacket,,Cash,3
+1981,60508,1/5/2024,3,N/A,Japan,Toys,Toy Car,10,,3
+2552,51226,3/6/2023,,,Indonesia,Sports,Football,0,,
+4136,36285,,5,,UAE,Sports,Cricket Bat,0,Credit Card,5
+1731,32753,5/13/2022,1,N/A,UK,Toys,Action Figure,0,,
+1818,31804,6/23/2023,,50,Bangladesh,Books,Comics,,Credit Card,1
+4280,37814,,,10,India,Clothing,Hoodie,,Cash,5
+1321,56364,,,35,Turkey,Electronics,Mobile Phone,5,Debit Card,5
+1867,32728,,5,,Spain,Toys,Puzzle,,Paypal,1
+2382,38258,1/6/2023,5,50,South Africa,Clothing,Jeans,10,Cash,4
+1346,34504,,,,Indonesia,Books,Comics,10,Cash,4
+2165,33213,2/5/2022,1,,Japan,Sports,Gym Gloves,5,Debit Card,
+1382,83506,12/8/2023,,N/A,Spain,Home & Kitchen,Mixer,10,Debit Card,2
+,56023,,5,20.5,USA,Home & Kitchen,Toaster,,Cash,
+3878,89009,,4,N/A,,Sports,Cricket Bat,,Paypal,1
+,77297,,,35,Sri Lanka,Books,Novel,,Credit Card,
+1426,33450,,1,35,Malaysia,Books,Comics,5,Debit Card,1
+3356,38076,2/9/2023,4,N/A,Germany,Toys,Toy Car,5,Cash,1
+2635,39221,,,10,Germany,Sports,Yoga Mat,5,Paypal,5
+1674,84357,8/9/2023,4,,China,Clothing,Hoodie,15,Cash,
+,36254,,1,,Sri Lanka,Beauty,Face Wash,0,Cash,2
+,52941,,,N/A,Saudi Arabia,Home & Kitchen,Vacuum Cleaner,5,Credit Card,1
+,50900,1/6/2022,2,99.99,Spain,Toys,Action Figure,15,Credit Card,3
+,85966,,2,20.5,Malaysia,Clothing,Cap,,Credit Card,4
+1246,31869,,1,35,Pakistan,Beauty,Hair Oil,0,Paypal,
+1988,34787,,,10,Malaysia,Home & Kitchen,Toaster,0,Cash,4
+,86745,7/10/2022,5,10,Mexico,Books,Magazine,10,Cash,4
+1463,34869,12/2/2023,1,35,Sri Lanka,Sports,Cricket Bat,10,Paypal,
+1502,32438,,3,20.5,Nepal,Electronics,Power Bank,,Debit Card,4
+,79436,11/16/2022,2,50,Sri Lanka,Clothing,Cap,5,,5
+1822,58863,,,20.5,Nigeria,Toys,Puzzle,5,Cash,1
+2300,36221,8/7/2022,,10,Japan,Beauty,Hair Oil,15,Cash,2
+1880,67489,7/9/2022,1,20.5,Nepal,Books,Textbook,0,Cash,1
+1580,34014,16/05/2024,2,99.99,Brazil,Toys,Toy Car,5,Debit Card,2
+,64585,1/16/2022,4,N/A,France,Clothing,T-Shirt,15,,4
+2751,37232,10/9/2022,,50,Bangladesh,Toys,Doll,,,5
+1157,79596,3/16/2024,,,Mexico,Beauty,Hair Oil,,Paypal,
+3583,38201,23/02/2024,4,99.99,,Electronics,Power Bank,10,Paypal,2
+,79602,12/8/2023,5,10,,Sports,Tennis Racket,,,2
+1564,63233,26/01/2022,3,50,UAE,Sports,Gym Gloves,,Debit Card,
+,39582,,1,10,,Toys,Action Figure,,,2
+1443,59836,2/26/2024,4,10,,Sports,Yoga Mat,,Credit Card,4
+2182,57704,4/2/2023,,N/A,Bangladesh,Home & Kitchen,Toaster,10,Credit Card,4
+3490,38794,6/1/2022,5,N/A,Spain,Sports,Gym Gloves,0,,5
+3574,53205,9/27/2023,5,35,Sri Lanka,Electronics,Laptop,10,Credit Card,2
+,55747,8/5/2024,,99.99,France,Books,Novel,5,Cash,5
+1566,87943,7/30/2023,5,N/A,,Toys,Board Game,10,Cash,3
+,80855,,,50,China,Sports,Football,10,,4
+1211,32436,,,20.5,Malaysia,Beauty,Perfume,,Cash,4
+3552,39132,12/8/2023,3,99.99,,Beauty,Lipstick,5,,2
+1576,34396,2/5/2022,2,10,India,Toys,Doll,10,Cash,5
+,36042,,1,,South Africa,Books,Textbook,10,Credit Card,1
+3330,34178,12/1/2024,3,50,Nepal,Toys,Doll,15,Paypal,
+1985,38577,,4,20.5,India,Electronics,Laptop,,Cash,5
+1691,71739,1/20/2022,5,99.99,China,Toys,Doll,0,Cash,4
+3480,32914,,,20.5,UAE,Toys,Board Game,,Credit Card,3
+,39603,1/16/2023,4,20.5,UK,Sports,Football,10,Credit Card,
+1594,34116,26/01/2022,4,99.99,Indonesia,Clothing,T-Shirt,,Cash,
+1628,58697,11/4/2022,,N/A,Turkey,Home & Kitchen,Microwave,,,1
+3434,71842,5/18/2024,1,,Mexico,Electronics,Headphones,,Cash,1
+,39720,25/11/2022,,20.5,Nepal,Beauty,Lipstick,0,Cash,2
+3292,39888,,1,10,UAE,Clothing,Jacket,10,Debit Card,
+1418,39856,6/25/2022,5,20.5,Germany,Books,Notebook,0,Paypal,
+2746,38304,30/03/2022,4,10,UAE,Electronics,Mobile Phone,5,,1
+1921,32593,6/4/2022,5,20.5,Nepal,Books,Comics,,Paypal,4
+,36412,24/09/2023,2,N/A,Brazil,Clothing,Jeans,0,Credit Card,4
+,89612,16/05/2024,4,50,Malaysia,Electronics,Headphones,0,Cash,5
+1510,77095,,,35,France,Toys,Action Figure,15,Paypal,1
+,87172,8/29/2023,,,Nepal,Home & Kitchen,Microwave,,Credit Card,
+,32599,4/28/2022,,50,Japan,Toys,Board Game,15,Credit Card,5
+1606,54029,1/24/2023,,N/A,Nigeria,Electronics,Power Bank,,Credit Card,
+1730,79305,,4,99.99,UAE,Clothing,Jeans,10,,
+1365,83451,19/12/2022,4,,India,Toys,Doll,10,,1
+4527,38073,,,35,UAE,Electronics,Power Bank,,Paypal,4
+1710,37301,10/11/2023,5,20.5,Germany,Sports,Gym Gloves,10,Debit Card,2
+1598,78621,5/28/2022,,10,Sri Lanka,Electronics,Mobile Phone,15,Paypal,
+,38373,4/7/2022,4,99.99,Australia,Toys,Board Game,5,Paypal,5
+1829,37731,1/19/2024,4,N/A,India,Electronics,Power Bank,,Paypal,
+1245,35578,,5,50,USA,Home & Kitchen,Mixer,,,1
+4933,85336,11/11/2023,,,South Africa,Clothing,Hoodie,0,Paypal,4
+,68953,,5,,Bangladesh,Beauty,Moisturizer,,Cash,
+2938,31845,,3,10,Bangladesh,Books,Magazine,0,Cash,4
+,35603,21/05/2024,5,10,Pakistan,Electronics,Laptop,,Credit Card,5
+2829,34869,11/6/2023,,20.5,,Clothing,Cap,,Credit Card,3
+,34898,,5,N/A,Sri Lanka,Electronics,Laptop,5,Debit Card,5
+4094,33745,28/09/2022,1,,Brazil,Toys,Doll,10,Paypal,
+,33378,12/1/2023,2,50,Japan,Books,Magazine,15,Paypal,
+1644,38074,10/4/2022,,10,China,Home & Kitchen,Vacuum Cleaner,10,Credit Card,3
+3765,34193,,4,50,Malaysia,Toys,Board Game,5,Cash,5
+1200,38306,1/13/2022,,10,Indonesia,Electronics,Mobile Phone,10,Cash,2
+1708,64209,2/28/2022,5,10,Bangladesh,Electronics,Mobile Phone,5,Paypal,
+,69304,,,20.5,Spain,Books,Magazine,10,Paypal,
+1303,37366,3/10/2024,3,20.5,China,Toys,Doll,10,Debit Card,4
+,33357,2/7/2023,2,99.99,Bangladesh,Electronics,Smart Watch,,Credit Card,4
+1685,66423,16/03/2022,1,10,Germany,Toys,Doll,,Credit Card,1
+1500,39444,18/12/2023,3,20.5,Italy,Toys,Toy Car,15,Credit Card,5
+4194,39770,17/04/2024,4,,Nepal,Clothing,T-Shirt,10,Paypal,1
+4935,80122,5/23/2024,3,99.99,South Africa,Toys,Action Figure,0,Paypal,
+,32390,,,50,Canada,Clothing,Jacket,5,Credit Card,2
+1911,39186,2/3/2023,2,50,India,Electronics,Power Bank,10,Credit Card,3
+1769,84283,,4,10,Nigeria,Books,Novel,5,Credit Card,1
+2930,65904,1/20/2022,4,,Sri Lanka,Toys,Puzzle,0,Cash,
+4421,32870,,4,99.99,,Books,Novel,,Debit Card,1
+1855,76346,,4,35,Nigeria,Books,Textbook,,Debit Card,3
+1710,57913,31/08/2023,,10,France,Books,Textbook,,Cash,5
+1202,74650,11/2/2022,2,99.99,USA,Clothing,Hoodie,0,Credit Card,2
+,58316,,3,50,China,Electronics,Power Bank,,Paypal,4
+1284,32442,8/2/2022,5,,Italy,Clothing,Jeans,0,,2
+1983,34592,,5,10,Nepal,Clothing,T-Shirt,5,Cash,1
+,61555,12/3/2023,,20.5,Sri Lanka,Clothing,T-Shirt,10,Cash,2
+,52838,,3,99.99,France,Sports,Tennis Racket,5,Credit Card,4
+1706,71362,,1,20.5,Nepal,Beauty,Face Wash,10,Debit Card,
+4021,74610,31/08/2022,2,10,Nigeria,Electronics,Headphones,15,Credit Card,4
+2586,34181,2/7/2022,5,50,Canada,Clothing,Jeans,10,Debit Card,1
+,80053,20/05/2022,1,35,Australia,Toys,Board Game,10,,2
+4502,39548,7/21/2023,2,99.99,Nigeria,Books,Magazine,15,Paypal,3
+,87975,,,N/A,Pakistan,Electronics,Smart Watch,15,Credit Card,1
+1590,38412,6/28/2023,1,50,USA,Sports,Yoga Mat,,Credit Card,
+1344,31260,,2,20.5,Japan,Toys,Toy Car,5,Paypal,
+1241,34030,,1,50,Spain,Beauty,Hair Oil,,Credit Card,
+,77911,,4,,USA,Toys,Action Figure,,Cash,
+,31669,22/02/2022,,35,France,Electronics,Power Bank,,,
+1566,32860,,,N/A,,Electronics,Power Bank,,Debit Card,
+,68162,1/10/2022,3,35,Saudi Arabia,Toys,Puzzle,15,Paypal,5
+1945,38405,,4,,Malaysia,Beauty,Face Wash,0,Debit Card,4
+4925,60798,,4,20.5,Germany,Electronics,Mobile Phone,15,Debit Card,
+1798,38764,28/10/2022,,10,Spain,Clothing,Cap,,Credit Card,3
+1954,37745,,1,N/A,Sri Lanka,Clothing,T-Shirt,10,Paypal,5
+1411,58647,1/4/2023,,99.99,Australia,Toys,Board Game,15,Cash,3
+1270,39770,10/19/2022,2,35,France,Books,Novel,,Debit Card,2
+,74226,,1,35,Malaysia,Clothing,T-Shirt,0,Cash,3
+3185,37628,6/16/2022,4,99.99,Spain,Clothing,Jacket,10,Debit Card,1
+,33409,25/10/2023,5,35,Malaysia,Toys,Board Game,0,Paypal,1
+2645,79227,26/01/2022,1,35,India,Clothing,Cap,,Debit Card,5
+1801,85285,,,N/A,Turkey,Beauty,Perfume,5,Paypal,3
+2478,37056,14/11/2023,5,10,Pakistan,Beauty,Hair Oil,10,Cash,3
+,38249,3/31/2022,,99.99,,Home & Kitchen,Pan Set,,Paypal,
+1352,38776,9/5/2023,,99.99,Nigeria,Sports,Cricket Bat,15,Credit Card,1
+1827,58973,24/07/2023,4,20.5,Japan,Sports,Tennis Racket,,Paypal,1
+1672,80372,11/8/2022,,99.99,Germany,Books,Notebook,10,Cash,
+,61755,11/13/2023,1,,UK,Books,Comics,10,Paypal,1
+,32959,,5,50,Indonesia,Beauty,Lipstick,,Credit Card,
+1572,58879,5/30/2022,5,10,China,Home & Kitchen,Microwave,10,Paypal,
+1178,62701,,3,35,,Home & Kitchen,Mixer,5,,3
+,32570,12/3/2023,,N/A,Pakistan,Books,Notebook,5,,3
+1419,82989,,4,35,Bangladesh,Home & Kitchen,Pan Set,,,
+,55006,4/1/2024,,N/A,Brazil,Beauty,Hair Oil,10,Cash,
+,61285,,,50,UK,Home & Kitchen,Microwave,5,Debit Card,
+1513,55151,11/11/2022,,20.5,Pakistan,Toys,Puzzle,15,Paypal,1
+3103,32948,11/7/2023,1,N/A,USA,Clothing,T-Shirt,10,Credit Card,
+4691,73038,8/25/2023,5,20.5,Indonesia,Electronics,Mobile Phone,10,,3
+3984,83089,,,99.99,,Home & Kitchen,Microwave,0,,2
+1104,34506,12/2/2024,3,20.5,Malaysia,Toys,Puzzle,,Debit Card,4
+2554,34728,12/30/2022,2,N/A,,Toys,Action Figure,10,Credit Card,4
+,86512,20/02/2024,2,50,Brazil,Electronics,Power Bank,0,Paypal,3
+,37672,5/12/2023,,35,Canada,Sports,Yoga Mat,0,Paypal,
+,78708,5/19/2023,1,,Germany,Home & Kitchen,Microwave,15,Paypal,
+,63124,3/8/2022,,20.5,Italy,Beauty,Face Wash,,Paypal,3
+1920,36834,,5,35,Bangladesh,Books,Magazine,15,Paypal,5
+,82589,4/21/2022,,50,UK,Home & Kitchen,Microwave,,Credit Card,
+1719,33502,,,10,Bangladesh,Electronics,Smart Watch,0,Credit Card,
+,39032,,,50,UAE,Books,Magazine,,,1
+,79003,1/28/2023,4,10,France,Books,Novel,,Cash,
+,39037,16/11/2022,4,20.5,South Africa,Clothing,Hoodie,5,,1
+,68640,1/22/2023,4,99.99,Nigeria,Sports,Tennis Racket,0,Debit Card,
+1883,72364,21/08/2023,,,Saudi Arabia,Home & Kitchen,Toaster,10,Paypal,3
+2278,54292,26/10/2023,2,20.5,France,Electronics,Laptop,0,,3
+,31334,,,N/A,Pakistan,Electronics,Smart Watch,10,Paypal,5
+1202,36504,,5,10,,Sports,Tennis Racket,,Cash,2
+3035,34507,26/07/2022,3,50,India,Beauty,Lipstick,10,,4
+1964,36518,4/5/2022,5,,Nigeria,Books,Textbook,,Paypal,4
+1409,38092,10/30/2023,,10,Italy,Clothing,Jacket,15,Cash,5
+1119,34056,7/15/2023,,N/A,Nepal,Beauty,Moisturizer,,Paypal,3
+1544,53924,23/05/2024,,99.99,Spain,Toys,Board Game,5,Debit Card,2
+2305,37757,25/02/2023,,50,Sri Lanka,Toys,Doll,5,Cash,
+1614,36087,27/04/2022,4,20.5,South Africa,Beauty,Perfume,15,Paypal,
+,86091,,2,35,Brazil,Electronics,Laptop,0,Credit Card,
+,55918,6/6/2024,5,35,UK,Electronics,Headphones,,,1
+3033,33003,15/09/2022,,99.99,Nigeria,Beauty,Hair Oil,,Paypal,
+1437,38200,28/05/2022,4,20.5,Nigeria,Toys,Puzzle,0,Paypal,5
+2945,33374,10/3/2023,3,99.99,Malaysia,Home & Kitchen,Mixer,10,Cash,1
+3712,35144,28/01/2024,1,N/A,Sri Lanka,Toys,Board Game,,Cash,
+,37438,31/08/2022,5,N/A,USA,Toys,Action Figure,5,Cash,2
+1931,31555,11/21/2022,4,,,Books,Textbook,15,Paypal,
+4762,60508,16/06/2024,,50,Italy,Sports,Tennis Racket,,,
+1756,62041,2/20/2024,,10,Turkey,Home & Kitchen,Pan Set,5,Cash,3
+1830,37722,13/09/2022,1,20.5,Brazil,Beauty,Face Wash,,Debit Card,3
+2154,77164,29/03/2024,,35,Turkey,Clothing,Cap,,Debit Card,1
+,62993,10/4/2023,,99.99,Turkey,Electronics,Power Bank,,Paypal,5
+4879,39615,24/06/2022,1,35,Nepal,Home & Kitchen,Microwave,15,Credit Card,2
+,82385,12/4/2024,2,N/A,Canada,Toys,Puzzle,,Debit Card,
+4245,69018,,4,20.5,Spain,Home & Kitchen,Microwave,5,Cash,5
+,34476,,1,10,Italy,Toys,Toy Car,,,3
+,73219,23/02/2022,5,10,Mexico,Electronics,Mobile Phone,,Paypal,3
+,39253,12/2/2022,2,99.99,Spain,Sports,Tennis Racket,5,Credit Card,3
+1478,39179,,4,20.5,Saudi Arabia,Toys,Board Game,15,Cash,3
+,33478,3/23/2023,5,35,Canada,Beauty,Lipstick,5,Credit Card,2
+,57603,17/06/2022,4,35,Saudi Arabia,Clothing,T-Shirt,,,4
+4550,72911,8/1/2024,1,N/A,France,Sports,Gym Gloves,5,,
+1104,33958,8/6/2022,,99.99,Australia,Home & Kitchen,Vacuum Cleaner,15,Credit Card,3
+1482,56951,5/5/2022,,,USA,Electronics,Headphones,15,Paypal,4
+1144,79694,1/6/2022,5,,India,Toys,Doll,,Cash,3
+,37534,7/15/2023,,10,Australia,Books,Novel,15,Credit Card,1
+1391,32975,9/3/2024,2,50,,Books,Textbook,15,Cash,
+1476,39021,9/4/2022,3,,Brazil,Beauty,Perfume,10,,5
+2508,78449,4/10/2024,,50,Mexico,Sports,Football,10,Paypal,
+3651,38671,10/7/2023,4,99.99,,Clothing,Jeans,15,Cash,2
+1402,53127,,,20.5,UK,Clothing,Jacket,,Paypal,4
+,66702,8/6/2023,,,Indonesia,Electronics,Smart Watch,,Paypal,2
+1526,36143,,,50,Spain,Books,Textbook,,Cash,3
+,56968,3/22/2022,2,20.5,Turkey,Books,Textbook,0,Credit Card,2
+1773,38974,,4,,Bangladesh,Toys,Toy Car,10,Paypal,
+1781,62335,15/01/2022,2,20.5,Sri Lanka,Home & Kitchen,Mixer,5,Debit Card,4
+4152,81063,11/5/2022,2,10,France,Books,Magazine,5,Paypal,4
+,87318,23/08/2023,,50,Pakistan,Sports,Football,0,Paypal,4
+,38987,3/9/2023,,99.99,Mexico,Books,Comics,,,
+,87775,4/3/2022,2,,Sri Lanka,Books,Comics,15,Paypal,1
+3857,60573,5/4/2023,,35,Saudi Arabia,Sports,Yoga Mat,15,Debit Card,5
+1962,33148,,,35,Malaysia,Clothing,Cap,15,Paypal,
+4976,63579,,,50,Brazil,Toys,Doll,5,Debit Card,2
+,65382,3/23/2024,4,10,Saudi Arabia,Clothing,Cap,10,Cash,
+1130,72133,,,N/A,Australia,Clothing,Jeans,0,,2
+1147,67530,,3,N/A,India,Sports,Tennis Racket,15,Paypal,
+3497,86862,9/18/2023,1,N/A,Sri Lanka,Books,Novel,0,Debit Card,3
+1610,33527,20/02/2024,,50,Germany,Clothing,Jacket,0,Debit Card,4
+,83097,8/4/2024,2,N/A,Saudi Arabia,Sports,Football,,Paypal,3
+3169,38025,11/2/2024,2,N/A,Spain,Toys,Puzzle,,Cash,1
+4302,36542,5/1/2024,,10,,Sports,Cricket Bat,5,Paypal,1
+4696,35845,4/6/2022,,,Nepal,Sports,Football,,,
+1640,37618,,3,10,Canada,Home & Kitchen,Toaster,,,
+,62929,4/11/2024,,35,South Africa,Beauty,Moisturizer,10,Paypal,
+1195,36115,,5,99.99,France,Toys,Puzzle,0,Credit Card,
+1411,77705,,3,20.5,India,Beauty,Hair Oil,10,Cash,
+,31085,14/02/2024,1,10,Australia,Beauty,Lipstick,,,5
+,33293,,,99.99,Indonesia,Toys,Board Game,5,Credit Card,3
+2479,37974,3/8/2024,2,N/A,USA,Beauty,Hair Oil,0,Paypal,2
+,39502,14/01/2023,4,10,Nigeria,Sports,Cricket Bat,15,Paypal,4
+1247,38942,4/23/2024,,50,Malaysia,Toys,Toy Car,,,1
+1260,32945,2/3/2022,4,50,UK,Toys,Puzzle,10,,3
+,69266,1/16/2023,2,10,Germany,Electronics,Power Bank,,Paypal,1
+4029,39970,4/18/2024,2,20.5,India,Home & Kitchen,Toaster,15,Paypal,5
+1586,89695,,4,35,Sri Lanka,Home & Kitchen,Vacuum Cleaner,15,Paypal,
+1919,76845,30/11/2022,,,UAE,Sports,Cricket Bat,,Credit Card,
+1678,87486,,,10,South Africa,Sports,Tennis Racket,0,Debit Card,5
+,82940,,,10,South Africa,Beauty,Hair Oil,5,Credit Card,3
+,39741,24/12/2023,2,N/A,Nigeria,Books,Textbook,0,Paypal,
+1980,37258,3/1/2023,4,20.5,UK,Electronics,Headphones,0,,2
+,76691,,2,35,UAE,Home & Kitchen,Microwave,5,Credit Card,
+,66903,11/24/2022,4,10,Canada,Electronics,Headphones,5,,5
+,36215,,5,N/A,Italy,Clothing,Hoodie,0,Paypal,1
+1700,56652,22/07/2023,1,35,Nigeria,Sports,Cricket Bat,15,Paypal,1
+2529,39806,,2,N/A,Spain,Books,Magazine,0,Credit Card,
+,35110,21/06/2022,3,,Sri Lanka,Sports,Yoga Mat,5,,
+3187,32469,,1,20.5,UK,Beauty,Lipstick,5,,3
+,38417,4/1/2024,5,99.99,Nepal,Sports,Cricket Bat,10,Cash,2
+1547,89897,12/10/2023,3,10,Nepal,Sports,Yoga Mat,5,Paypal,5
+1906,55080,,,50,Spain,Toys,Toy Car,,Credit Card,3
+1281,33044,2/1/2023,,99.99,Canada,Books,Comics,15,Credit Card,2
+,32474,,,35,Australia,Toys,Action Figure,5,Paypal,3
+3482,62850,25/12/2023,4,,Nigeria,Electronics,Headphones,,Paypal,2
+1798,87037,,,,Germany,Beauty,Perfume,,Credit Card,2
+,31378,,,20.5,South Africa,Home & Kitchen,Vacuum Cleaner,15,Credit Card,4
+,39491,19/03/2023,,35,Saudi Arabia,Toys,Action Figure,,Credit Card,
+2838,34188,6/30/2023,3,50,Nigeria,Clothing,T-Shirt,0,Debit Card,
+2348,31456,18/06/2022,2,20.5,,Sports,Football,0,,
+1441,31891,,,35,,Toys,Doll,5,Credit Card,
+1557,58180,4/8/2022,4,N/A,Turkey,Beauty,Hair Oil,10,Credit Card,
+1725,78301,,,50,India,Clothing,T-Shirt,,Credit Card,3
+4080,31173,25/09/2023,4,10,Spain,Books,Comics,15,,5
+1564,71508,3/12/2024,,,Pakistan,Electronics,Headphones,,Credit Card,5
+,38887,10/15/2023,5,20.5,Australia,Books,Textbook,5,Credit Card,1
+,70394,6/10/2023,5,50,Brazil,Clothing,Jacket,10,,3
+3693,53756,24/08/2023,1,99.99,Saudi Arabia,Home & Kitchen,Toaster,5,Debit Card,
+1811,36425,,3,20.5,Japan,Clothing,T-Shirt,15,Cash,2
+1103,34772,,,10,Canada,Electronics,Smart Watch,5,Paypal,
+1840,50440,1/20/2023,,,Saudi Arabia,Books,Notebook,0,,1
+,52877,10/9/2023,4,20.5,Japan,Clothing,Jacket,5,Debit Card,3
+2007,33884,7/22/2023,3,N/A,Pakistan,Toys,Puzzle,,Debit Card,4
+,33807,,3,20.5,USA,Toys,Action Figure,0,Debit Card,2
+,89292,1/23/2023,2,99.99,,Books,Textbook,,,2
+2342,33071,6/2/2022,3,N/A,Indonesia,Books,Magazine,0,Paypal,
+1869,37131,,1,20.5,Spain,Toys,Board Game,5,Cash,
+,67585,1/3/2024,,50,Australia,Home & Kitchen,Vacuum Cleaner,5,Paypal,
+1486,37129,,2,35,USA,Clothing,Hoodie,5,Credit Card,3
+1576,37981,21/08/2023,3,20.5,Italy,Sports,Yoga Mat,15,Cash,
+1735,32243,1/26/2022,3,50,Japan,Sports,Tennis Racket,,,5
+1403,73608,22/08/2022,,35,Canada,Toys,Action Figure,,Cash,3
+1975,85594,11/9/2023,2,,Japan,Home & Kitchen,Toaster,10,Paypal,4
+1769,59783,1/13/2022,,,Indonesia,Books,Magazine,,Debit Card,4
+1579,80238,20/07/2023,5,N/A,Canada,Clothing,Cap,15,Paypal,2
+1242,58411,31/01/2022,,99.99,,Sports,Gym Gloves,,Cash,3
+1881,35909,,4,,Pakistan,Clothing,Hoodie,,Credit Card,2
+1722,75617,29/03/2024,5,,USA,Clothing,Jacket,,Paypal,2
+3617,61234,4/8/2023,3,99.99,Malaysia,Sports,Football,,Paypal,1
+,32146,10/18/2022,1,50,Saudi Arabia,Clothing,Jeans,,Credit Card,2
+,32126,4/24/2022,4,20.5,Germany,Home & Kitchen,Pan Set,5,Cash,4
+1417,39232,12/8/2023,2,99.99,Canada,Books,Comics,0,Debit Card,4
+1436,38539,,5,N/A,India,Electronics,Smart Watch,,Credit Card,3
+,33869,5/12/2024,3,,France,Toys,Toy Car,,Paypal,4
+2611,33587,,,99.99,South Africa,Sports,Cricket Bat,10,Credit Card,
+,32723,20/02/2024,4,50,Spain,Toys,Puzzle,5,Cash,2
+1811,37244,,4,10,Turkey,Beauty,Face Wash,5,Paypal,1
+1786,38942,5/20/2022,1,,USA,Electronics,Headphones,,Debit Card,
+4447,51183,13/10/2022,4,N/A,UK,Sports,Cricket Bat,,Paypal,2
+2804,64199,7/6/2022,,35,Malaysia,Electronics,Mobile Phone,0,,
+1153,31797,11/12/2022,4,,Australia,Toys,Action Figure,10,Debit Card,2
+2380,54140,,4,10,France,Electronics,Mobile Phone,,Debit Card,1
+1675,34393,1/12/2022,1,N/A,UK,Sports,Yoga Mat,5,Debit Card,1
+3678,34485,2/16/2023,2,10,USA,Home & Kitchen,Toaster,,Cash,
+1408,82740,12/8/2022,1,10,UK,Beauty,Lipstick,,Cash,
+1544,70838,12/12/2023,,N/A,Pakistan,Toys,Toy Car,,,4
+1701,50871,,,,,Sports,Yoga Mat,0,Cash,2
+1325,39171,9/27/2023,,20.5,Germany,Toys,Toy Car,15,Debit Card,
+,35556,,,99.99,,Electronics,Laptop,0,,
+,72461,,,10,India,Sports,Tennis Racket,,Debit Card,
+3135,78990,26/01/2023,5,N/A,USA,Toys,Puzzle,5,Credit Card,
+3427,65486,27/06/2022,2,10,Indonesia,Clothing,Jeans,15,Cash,2
+,68700,30/06/2022,2,50,,Toys,Puzzle,15,Credit Card,3
+1617,33553,3/28/2023,2,50,,Sports,Gym Gloves,15,Paypal,
+3264,37233,6/6/2022,5,99.99,Spain,Electronics,Headphones,10,Paypal,5
+3928,60140,5/20/2022,1,35,Mexico,Beauty,Moisturizer,,Cash,4
+,32167,1/18/2023,4,,UK,Sports,Gym Gloves,15,,2
+1456,82022,,3,N/A,Turkey,Clothing,Hoodie,15,Debit Card,2
+3894,35281,,,35,Germany,Sports,Football,10,Debit Card,5
+1759,75188,,1,10,Canada,Beauty,Perfume,15,Debit Card,
+1645,36045,,,35,USA,Sports,Tennis Racket,0,,
+1314,76081,10/3/2022,,20.5,Brazil,Books,Notebook,0,Credit Card,1
+,33890,11/2/2023,5,50,Malaysia,Books,Comics,5,Debit Card,4
+4335,63168,8/4/2023,1,50,China,Clothing,Cap,15,Paypal,
+1326,33042,6/20/2022,,,UAE,Beauty,Face Wash,0,,2
+,50473,4/14/2022,,N/A,Mexico,Sports,Gym Gloves,0,Paypal,5
+,37074,15/02/2024,4,50,Australia,Beauty,Lipstick,10,Paypal,4
+4302,79944,12/5/2022,3,N/A,Bangladesh,Beauty,Face Wash,0,,3
+,83745,9/26/2023,3,50,Sri Lanka,Toys,Puzzle,10,Credit Card,
+3776,38938,,,,Bangladesh,Home & Kitchen,Mixer,0,Cash,4
+1299,59382,10/28/2022,,50,Brazil,Sports,Football,0,Cash,
+4671,81599,6/22/2022,,50,Canada,Toys,Board Game,5,Credit Card,1
+4138,66883,,2,35,Germany,Sports,Football,,Paypal,1
+4138,37176,,,20.5,Sri Lanka,Books,Notebook,,Paypal,
+1359,72297,,3,10,Saudi Arabia,Clothing,Jeans,5,Cash,4
+,36237,,3,10,,Beauty,Face Wash,5,,
+,33370,2/9/2023,2,10,Brazil,Beauty,Hair Oil,,Paypal,2
+1920,36245,,2,,Malaysia,Beauty,Lipstick,0,Cash,
+,31963,4/28/2024,4,,Malaysia,Toys,Board Game,5,Debit Card,
+1599,75677,7/3/2022,,N/A,South Africa,Toys,Action Figure,15,Cash,4
+1173,68549,,3,N/A,South Africa,Toys,Toy Car,15,Credit Card,2
+,79984,25/02/2022,,N/A,Malaysia,Home & Kitchen,Vacuum Cleaner,15,Cash,2
+4011,73738,20/07/2022,,,Italy,Clothing,Jeans,,Debit Card,1
+1627,72183,,4,20.5,Indonesia,Electronics,Headphones,15,Debit Card,1
+3817,32468,,4,50,Turkey,Electronics,Laptop,10,Paypal,3
+1756,83406,,1,10,Nigeria,Electronics,Mobile Phone,,Paypal,3
+1595,78420,7/5/2022,,99.99,UAE,Toys,Action Figure,0,,2
+1902,82018,4/17/2024,4,99.99,Nepal,Sports,Football,0,Debit Card,
+4278,52565,,1,99.99,France,Beauty,Perfume,0,,3
+1472,61246,6/3/2023,1,10,Japan,Books,Novel,0,,
+,84253,,4,20.5,UK,Home & Kitchen,Vacuum Cleaner,,Credit Card,2
+4410,34539,26/05/2024,2,35,Germany,Electronics,Laptop,,,4
+,32364,,3,35,Italy,Electronics,Power Bank,,Debit Card,5
+1813,62624,3/10/2022,,,Germany,Clothing,T-Shirt,10,Paypal,4
+1510,85937,4/10/2022,2,10,Sri Lanka,Electronics,Power Bank,0,Cash,3
+1924,56419,28/03/2024,2,N/A,UK,Books,Notebook,0,Debit Card,5
+1197,35620,,5,N/A,UK,Toys,Doll,0,Debit Card,3
+1794,37597,,2,35,Germany,Books,Comics,10,Credit Card,
+1681,31866,,,20.5,,Beauty,Perfume,5,,4
+1579,35519,,2,50,Malaysia,Toys,Toy Car,5,Cash,
+2280,55208,2/29/2024,3,50,France,Books,Novel,,Credit Card,1
+,33235,7/4/2024,5,50,Mexico,Toys,Doll,,,
+1951,37962,7/14/2022,1,99.99,Indonesia,Electronics,Smart Watch,,,
+1882,64750,22/06/2022,5,50,Germany,Beauty,Face Wash,,Cash,1
+,66368,18/01/2023,4,20.5,Japan,Sports,Gym Gloves,15,Cash,3
+,31580,,,,Brazil,Clothing,T-Shirt,0,Cash,1
+,37587,12/29/2022,3,35,UK,Beauty,Moisturizer,15,Paypal,2
+1507,60199,25/02/2023,5,20.5,Turkey,Electronics,Power Bank,10,Cash,3
+1549,78793,3/10/2022,5,N/A,Indonesia,Sports,Cricket Bat,15,Credit Card,3
+,77594,10/19/2022,1,20.5,Nepal,Books,Textbook,5,Paypal,
+1919,36322,,4,50,Indonesia,Home & Kitchen,Mixer,,Paypal,2
+1452,50894,,,10,UAE,Electronics,Mobile Phone,15,,
+,66236,10/16/2022,4,35,China,Electronics,Smart Watch,0,Cash,
+4206,82920,,2,50,Sri Lanka,Clothing,Hoodie,,Debit Card,2
+,51157,10/8/2022,4,10,Turkey,Electronics,Laptop,15,,3
+1162,31846,3/13/2023,2,35,China,Toys,Puzzle,10,Cash,3
+1744,53416,18/02/2022,2,35,Brazil,Toys,Toy Car,10,,1
+2369,56349,8/1/2023,3,50,Saudi Arabia,Sports,Cricket Bat,,Cash,
+,63764,1/16/2023,5,99.99,Germany,Books,Magazine,,,1
+,32226,15/07/2022,,N/A,Indonesia,Electronics,Power Bank,15,Debit Card,5
+1663,36690,16/07/2022,1,20.5,Sri Lanka,Toys,Puzzle,,Credit Card,4
+4239,89266,31/05/2023,4,99.99,India,Electronics,Smart Watch,,Credit Card,
+1801,83651,12/2/2023,,N/A,,Toys,Puzzle,,Paypal,5
+1847,60485,,4,99.99,Spain,Books,Comics,,,3
+3261,64675,2/10/2022,3,,India,Home & Kitchen,Microwave,,Debit Card,3
+3631,85035,,,N/A,Saudi Arabia,Clothing,Jacket,,,3
+,69326,,,99.99,Pakistan,Home & Kitchen,Mixer,10,Debit Card,
+1988,37258,,3,10,Sri Lanka,Home & Kitchen,Microwave,,,2
+1695,33550,10/3/2022,2,35,Indonesia,Books,Comics,,Paypal,3
+2881,62377,,1,50,Japan,Clothing,Hoodie,0,Cash,2
+1284,35018,,,99.99,Turkey,Clothing,Hoodie,0,,2
+2572,50888,1/22/2023,5,10,,Toys,Action Figure,0,Cash,2
+4922,85544,1/10/2022,1,N/A,Germany,Toys,Board Game,15,,4
+1632,85620,5/6/2023,3,35,India,Books,Textbook,0,,3
+1004,37998,5/26/2022,,50,Saudi Arabia,Electronics,Power Bank,,Cash,2
+,61112,4/22/2024,,,Japan,Toys,Toy Car,10,Credit Card,5
+3476,39691,,3,10,France,Home & Kitchen,Mixer,,Paypal,2
+2426,39179,21/10/2022,5,N/A,,Toys,Doll,,Credit Card,
+,79274,5/31/2022,,,Nigeria,Electronics,Laptop,15,Cash,2
+,37944,,2,20.5,Italy,Electronics,Headphones,,Cash,2
+1651,82283,17/07/2023,4,50,USA,Books,Textbook,,Paypal,5
+2481,36937,8/29/2022,,10,UK,Beauty,Perfume,0,Cash,3
+1973,77595,5/28/2022,3,50,India,Books,Textbook,,Debit Card,1
+,53544,27/01/2022,4,,Bangladesh,Toys,Puzzle,5,Credit Card,2
+,33988,,1,20.5,Germany,Home & Kitchen,Microwave,,,
+1900,50865,12/12/2022,4,,India,Home & Kitchen,Pan Set,,Credit Card,5
+,35227,,5,20.5,Australia,Books,Textbook,15,Debit Card,3
+1510,34586,1/31/2024,4,20.5,Indonesia,Electronics,Power Bank,,,
+,31895,,4,35,Italy,Electronics,Smart Watch,5,Cash,1
+4467,65697,,3,99.99,UK,Electronics,Mobile Phone,0,Debit Card,5
+3614,67640,,2,99.99,,Electronics,Headphones,15,Credit Card,1
+,34192,1/1/2023,3,10,Indonesia,Home & Kitchen,Mixer,10,Debit Card,
+1203,31388,30/01/2024,3,50,Nigeria,Toys,Action Figure,0,Cash,2
+4902,64132,,1,,Mexico,Clothing,Hoodie,,,
+,31655,5/15/2022,4,N/A,Canada,Beauty,Lipstick,,,1
+4296,70286,10/4/2022,,50,UK,Clothing,Cap,15,Cash,2
+2488,33935,14/08/2023,1,35,Brazil,Home & Kitchen,Microwave,10,Paypal,
+,76275,10/2/2022,5,50,Saudi Arabia,Clothing,T-Shirt,,,3
+1369,52796,,,50,South Africa,Home & Kitchen,Mixer,0,Debit Card,
+2635,37360,,4,20.5,USA,Electronics,Headphones,10,Paypal,4
+1284,37503,4/22/2022,,50,Turkey,Toys,Board Game,10,Credit Card,3
+4036,68243,,4,20.5,Germany,Home & Kitchen,Vacuum Cleaner,15,Debit Card,
+4171,38046,9/8/2023,5,10,India,Clothing,Jacket,5,Credit Card,
+1721,35487,10/13/2023,3,35,Japan,Toys,Toy Car,,Paypal,
+1753,38021,23/09/2022,2,,France,Sports,Yoga Mat,5,Cash,4
+,73245,,5,,,Sports,Gym Gloves,,Debit Card,1
+1943,70743,28/11/2022,5,20.5,Germany,Toys,Board Game,15,Cash,1
+1015,79447,1/10/2024,3,99.99,Indonesia,Books,Comics,5,Paypal,
+2425,31235,10/8/2022,5,50,Pakistan,Beauty,Perfume,10,Cash,5
+,36770,,,50,,Books,Novel,10,Credit Card,2
+1266,37251,,3,20.5,Malaysia,Sports,Gym Gloves,,Paypal,
+4301,31269,3/31/2022,,10,Brazil,Home & Kitchen,Vacuum Cleaner,,,5
+,77567,5/4/2024,5,99.99,South Africa,Electronics,Smart Watch,15,Credit Card,2
+,31124,3/23/2024,1,35,Mexico,Books,Comics,10,Cash,
+3757,77168,3/1/2023,,N/A,Germany,Home & Kitchen,Toaster,10,,
+,65848,,3,35,Sri Lanka,Toys,Board Game,15,Credit Card,
+,70848,4/2/2023,2,,Australia,Beauty,Moisturizer,0,Debit Card,5
+,33605,5/13/2024,,50,USA,Electronics,Power Bank,0,Credit Card,4
+3898,87473,,2,10,Indonesia,Electronics,Power Bank,5,Paypal,
+,62702,,2,20.5,,Toys,Doll,15,Cash,
+1753,32817,,1,20.5,UK,Electronics,Headphones,0,Debit Card,3
+4459,32649,5/22/2023,1,10,Italy,Home & Kitchen,Microwave,0,Paypal,
+1421,79548,20/01/2023,,50,Pakistan,Electronics,Laptop,5,,
+1728,85814,,1,35,Indonesia,Beauty,Face Wash,10,Credit Card,2
+3096,64175,6/15/2023,5,10,Pakistan,Beauty,Face Wash,10,Debit Card,2
+,35822,,3,35,,Electronics,Laptop,15,Paypal,5
+1966,68421,,3,20.5,,Sports,Cricket Bat,,Cash,2
+,35451,,,50,UK,Books,Textbook,,Paypal,4
+,31553,,3,35,Italy,Clothing,Cap,10,,
+,34046,1/31/2022,3,50,USA,Toys,Board Game,5,Cash,3
+1111,34502,,1,10,,Clothing,Jacket,10,Debit Card,5
+3159,86762,,3,99.99,Sri Lanka,Electronics,Smart Watch,15,Paypal,3
+,35496,2/20/2022,2,20.5,UK,Books,Notebook,15,Debit Card,5
+1087,31076,14/08/2023,4,20.5,Germany,Home & Kitchen,Vacuum Cleaner,15,Credit Card,5
+1284,35931,17/01/2022,3,,,Beauty,Face Wash,10,Paypal,1
+1405,79791,18/02/2022,4,99.99,Bangladesh,Beauty,Lipstick,0,Credit Card,2
+1804,78552,11/27/2022,2,10,Canada,Electronics,Mobile Phone,,Cash,
+2063,31786,2/23/2022,,N/A,China,Beauty,Face Wash,10,,
+1241,80192,24/06/2022,3,,Germany,Books,Comics,,Paypal,
+1589,35596,,5,99.99,Brazil,Sports,Football,5,Credit Card,3
+3287,63493,28/12/2022,,10,India,Books,Notebook,5,Credit Card,
+,39644,12/7/2022,,50,Malaysia,Clothing,Hoodie,15,Debit Card,
+1563,34326,1/8/2023,2,20.5,USA,Beauty,Face Wash,10,Paypal,2
+,57023,10/26/2023,,99.99,Spain,Toys,Doll,5,Cash,1
+1484,73227,9/29/2022,4,35,Turkey,Sports,Yoga Mat,,Paypal,5
+1150,75068,14/01/2023,4,35,Canada,Home & Kitchen,Mixer,15,Debit Card,5
+1211,53268,6/16/2023,5,50,UK,Home & Kitchen,Vacuum Cleaner,0,Credit Card,5
+1331,37421,4/14/2022,1,99.99,Australia,Home & Kitchen,Microwave,,Cash,4
+1394,89079,12/22/2022,,20.5,France,Clothing,Jeans,,,4
+1422,54551,2/9/2022,,,Spain,Toys,Doll,5,Credit Card,
+4991,31159,1/7/2022,3,10,Nigeria,Sports,Gym Gloves,0,Paypal,
+1680,69048,4/18/2024,1,10,,Clothing,Hoodie,0,Credit Card,3
+,35153,23/01/2024,4,50,Pakistan,Books,Notebook,10,Cash,
+1963,32847,,,,Mexico,Home & Kitchen,Vacuum Cleaner,,Credit Card,2
+3039,38056,1/1/2023,,20.5,Indonesia,Sports,Cricket Bat,0,Debit Card,4
+1560,35346,27/11/2023,3,,Turkey,Toys,Action Figure,,Paypal,3
+1451,38101,,1,99.99,,Home & Kitchen,Microwave,10,Cash,1
+1253,33664,23/04/2023,,20.5,Japan,Electronics,Smart Watch,0,Cash,1
+3429,82005,25/04/2024,2,35,Saudi Arabia,Sports,Football,,Credit Card,1
+1614,86749,,3,35,China,Home & Kitchen,Microwave,5,Debit Card,4
+2938,37923,2/2/2022,3,20.5,China,Beauty,Face Wash,10,,3
+1923,34268,6/15/2024,4,,Italy,Clothing,Cap,,Debit Card,3
+2888,74639,10/6/2023,3,99.99,Mexico,Home & Kitchen,Mixer,15,Cash,5
+,80230,14/03/2023,4,35,USA,Toys,Doll,5,,3
+1735,87065,18/01/2023,5,99.99,Germany,Books,Textbook,15,Credit Card,4
+,57015,25/02/2022,4,N/A,Nigeria,Books,Magazine,15,Cash,
+1857,53474,,,99.99,Indonesia,Electronics,Mobile Phone,15,Debit Card,2
+,63153,11/15/2022,3,,Germany,Toys,Puzzle,,Credit Card,5
+1952,79085,5/1/2023,2,10,Japan,Electronics,Laptop,15,Paypal,2
+1941,33018,7/14/2023,,N/A,Sri Lanka,Books,Textbook,0,Debit Card,2
+3865,38871,30/01/2024,2,99.99,Nepal,Books,Textbook,0,,4
+,77321,12/16/2023,4,50,Japan,Home & Kitchen,Toaster,15,Credit Card,5
+1766,31698,2/4/2022,5,35,Spain,Sports,Football,,Paypal,3
+4526,39602,,3,99.99,USA,Electronics,Laptop,5,Debit Card,3
+4517,35963,1/3/2024,3,50,Sri Lanka,Toys,Board Game,15,Paypal,4
+1774,33120,,5,,Nigeria,Beauty,Perfume,10,,5
+4489,65184,31/01/2022,1,10,Nepal,Books,Comics,15,Cash,
+,32014,1/16/2024,1,20.5,India,Clothing,Jeans,,Credit Card,4
+,38364,5/10/2024,5,,Sri Lanka,Books,Notebook,,,2
+2171,60622,11/27/2023,4,50,Nigeria,Clothing,Jacket,0,Credit Card,2
+1681,54716,,1,35,Indonesia,Electronics,Laptop,,,4
+,86614,1/5/2023,5,N/A,Italy,Clothing,Jeans,,Paypal,
+3118,57728,3/12/2024,1,20.5,Bangladesh,Electronics,Power Bank,,Cash,1
+3880,60345,,,35,Nigeria,Clothing,Jacket,5,,5
+3236,38716,,4,99.99,Pakistan,Beauty,Lipstick,0,Cash,4
+1309,71601,2/3/2022,3,N/A,USA,Home & Kitchen,Microwave,,,
+1857,55281,3/3/2023,3,10,Indonesia,Books,Novel,0,Credit Card,1
+,64926,12/25/2022,2,,,Sports,Yoga Mat,5,,5
+,37342,,,,Germany,Books,Comics,15,Paypal,5
+,36621,9/23/2023,4,10,Australia,Clothing,T-Shirt,5,Credit Card,5
+1927,87227,,4,,Australia,Electronics,Laptop,0,Credit Card,1
+1458,66006,,2,35,Turkey,Clothing,Hoodie,15,Credit Card,
+1822,34609,,3,99.99,Japan,Electronics,Mobile Phone,10,,3
+1654,31884,23/11/2022,5,35,Malaysia,Books,Textbook,,Paypal,3
+1412,86239,18/06/2023,2,N/A,Indonesia,Electronics,Laptop,5,Credit Card,2
+4903,31553,10/4/2023,,N/A,Nigeria,Toys,Toy Car,15,Cash,
+2572,37302,9/17/2023,3,N/A,Australia,Electronics,Mobile Phone,5,Paypal,2
+1132,31425,8/11/2023,5,10,,Toys,Toy Car,,Debit Card,
+,32789,,,N/A,Nepal,Electronics,Headphones,10,,4
+3125,74988,2/27/2024,,99.99,Pakistan,Sports,Yoga Mat,10,Cash,1
+1139,36926,,3,35,China,Clothing,Cap,,,1
+4424,79085,25/11/2022,5,,Pakistan,Electronics,Headphones,15,Credit Card,3
+,89998,1/3/2022,2,50,France,Sports,Yoga Mat,10,Cash,3
+1250,53249,,2,20.5,India,Books,Comics,5,,
+3938,66977,,3,10,Saudi Arabia,Sports,Yoga Mat,,Credit Card,5
+1215,55075,4/6/2023,1,10,Nigeria,Clothing,Jacket,10,Paypal,1
+,37686,26/01/2022,3,20.5,Japan,Toys,Toy Car,,Credit Card,2
+1208,36129,8/29/2023,3,20.5,Turkey,Home & Kitchen,Mixer,,Credit Card,
+1321,39249,,4,N/A,Indonesia,Toys,Puzzle,0,,
+,34195,6/22/2023,4,,UAE,Electronics,Power Bank,5,Cash,2
+1555,76864,11/12/2023,,10,South Africa,Sports,Tennis Racket,,Credit Card,3
+4220,87312,5/4/2023,5,20.5,Nepal,Toys,Toy Car,,Debit Card,5
+,33431,,3,35,,Home & Kitchen,Toaster,5,Debit Card,4
+1667,80792,9/27/2022,1,50,Italy,Electronics,Laptop,0,Debit Card,1
+,58352,,,99.99,Japan,Clothing,Cap,0,Cash,
+3958,38354,,5,99.99,Spain,Home & Kitchen,Vacuum Cleaner,,Paypal,3
+1841,83382,1/22/2024,,20.5,Nigeria,Books,Comics,,Cash,
+1620,88540,3/26/2023,4,35,Japan,Toys,Toy Car,15,Cash,1
+,37292,6/5/2023,5,99.99,Germany,Beauty,Hair Oil,0,Debit Card,4
+,32942,18/11/2022,5,99.99,Brazil,Beauty,Lipstick,15,Debit Card,2
+1337,68260,4/19/2022,5,N/A,South Africa,Home & Kitchen,Toaster,,Debit Card,1
+,51689,29/03/2024,5,99.99,Nigeria,Beauty,Face Wash,15,Paypal,5
+3893,38082,4/1/2024,3,10,USA,Clothing,Hoodie,5,Cash,
+4048,54872,,3,N/A,UAE,Toys,Action Figure,10,Paypal,
+,52513,,,N/A,,Toys,Board Game,,Cash,2
+1136,50522,,,N/A,Turkey,Books,Magazine,5,Debit Card,3
+,58637,,4,N/A,Indonesia,Sports,Cricket Bat,,Debit Card,1
+1854,37851,,4,99.99,Turkey,Sports,Football,,,2
+,35786,4/11/2023,4,99.99,,Toys,Doll,,Paypal,5
+,38326,4/9/2022,4,35,Nepal,Home & Kitchen,Vacuum Cleaner,15,Credit Card,2
+1507,38925,,,10,Italy,Sports,Tennis Racket,,Debit Card,1
+4206,36295,,5,20.5,UAE,Home & Kitchen,Toaster,15,Paypal,
+1597,64348,25/02/2022,4,35,Spain,Sports,Gym Gloves,15,Debit Card,5
+1728,71606,,2,N/A,Pakistan,Clothing,Cap,15,Credit Card,
+1164,53225,24/02/2024,3,N/A,South Africa,Toys,Doll,5,Debit Card,
+2188,36431,8/23/2022,,,South Africa,Beauty,Moisturizer,,Debit Card,1
+,33571,15/04/2022,,99.99,Pakistan,Electronics,Mobile Phone,5,Debit Card,1
+3684,67694,1/22/2023,,N/A,Mexico,Home & Kitchen,Mixer,,Paypal,1
+,36114,8/4/2022,5,20.5,Mexico,Electronics,Power Bank,,Credit Card,3
+1771,37169,28/09/2022,2,10,USA,Home & Kitchen,Pan Set,5,Paypal,5
+,39143,1/7/2023,3,,,Home & Kitchen,Pan Set,,Credit Card,4
+,32785,29/02/2024,1,50,Germany,Clothing,Cap,,Credit Card,1
+3430,37605,,2,N/A,Indonesia,Beauty,Perfume,,Debit Card,1
+4033,36266,11/15/2022,3,50,China,Books,Comics,,Debit Card,
+4930,38559,,5,50,South Africa,Beauty,Moisturizer,,Credit Card,1
+1265,57961,15/02/2024,4,20.5,UK,Sports,Football,0,Paypal,4
+,31151,2/6/2024,4,20.5,Italy,Clothing,Cap,10,Cash,5
+,34349,,3,99.99,Bangladesh,Home & Kitchen,Vacuum Cleaner,10,Paypal,4
+4800,84365,22/05/2024,,,Italy,Clothing,Jacket,5,Debit Card,4
+1816,38513,7/12/2022,3,,India,Electronics,Mobile Phone,,Paypal,5
+,34156,27/07/2023,3,,Italy,Clothing,T-Shirt,,Cash,3
+3627,55077,,3,99.99,Canada,Beauty,Moisturizer,10,Debit Card,3
+,35542,6/19/2023,2,N/A,France,Beauty,Face Wash,0,Debit Card,2
+2947,71190,6/18/2022,2,20.5,Mexico,Electronics,Power Bank,15,Paypal,
+1346,37181,,3,99.99,Brazil,Sports,Tennis Racket,10,Cash,
+4449,33341,,5,10,Spain,Beauty,Lipstick,15,Cash,
+,36668,12/23/2022,4,,Bangladesh,Electronics,Power Bank,,Debit Card,4
+1469,31091,20/07/2022,,10,UK,Home & Kitchen,Microwave,10,Cash,5
+,31719,25/10/2023,3,10,Sri Lanka,Electronics,Power Bank,0,,
+,85755,11/4/2023,5,,Pakistan,Electronics,Smart Watch,,Debit Card,
+1339,53673,15/05/2022,,N/A,UK,Toys,Puzzle,,Cash,
+,61089,,,10,Turkey,Clothing,Cap,15,Credit Card,1
+,52916,,2,,Mexico,Clothing,Cap,15,Debit Card,
+,32410,7/29/2023,3,35,UK,Toys,Action Figure,0,Debit Card,
+4955,34563,4/10/2023,3,99.99,USA,Electronics,Laptop,,Debit Card,3
+1543,74858,26/01/2024,,N/A,Germany,Books,Textbook,,Cash,4
+1365,78809,1/7/2022,3,20.5,Saudi Arabia,Clothing,Jeans,,Cash,3
+3814,52407,,4,N/A,Nigeria,Books,Magazine,5,Paypal,3
+1615,67625,18/12/2023,2,35,Canada,Toys,Doll,15,Cash,1
+,36291,,,,Turkey,Electronics,Power Bank,,,1
+4690,38790,9/6/2024,,35,Sri Lanka,Home & Kitchen,Mixer,0,Debit Card,3
+,38126,10/7/2022,4,99.99,Australia,Home & Kitchen,Microwave,10,Cash,5
+1164,32767,4/11/2022,,50,,Home & Kitchen,Pan Set,10,,4
+1407,84346,6/20/2022,2,99.99,Nepal,Beauty,Face Wash,10,Credit Card,1
+,50055,4/15/2023,,35,Japan,Home & Kitchen,Microwave,10,Credit Card,2
+1257,86395,12/1/2024,4,10,France,Clothing,Jeans,10,Credit Card,4
+,32569,4/29/2023,,20.5,UAE,Beauty,Moisturizer,5,Paypal,
+1534,75811,18/01/2024,,,Brazil,Home & Kitchen,Toaster,,,1
+,31026,8/29/2022,2,N/A,Sri Lanka,Clothing,Cap,5,Debit Card,4
+,61788,22/03/2023,2,35,Japan,Clothing,T-Shirt,15,Paypal,1
+3794,32353,,2,20.5,Indonesia,Home & Kitchen,Pan Set,0,Paypal,
+,31189,,2,35,Nepal,Books,Novel,15,Paypal,
+1218,39225,30/01/2024,4,35,Malaysia,Electronics,Headphones,10,,3
+1991,55243,17/02/2024,4,99.99,Malaysia,Electronics,Laptop,,Cash,2
+,68462,11/4/2023,,N/A,Spain,Beauty,Hair Oil,10,Credit Card,5
+3764,85569,12/12/2022,3,50,Saudi Arabia,Toys,Doll,15,Credit Card,4
+1465,39704,9/3/2023,,10,France,Home & Kitchen,Toaster,0,,1
+,34999,3/18/2023,,50,USA,Clothing,Jeans,10,Cash,1
+,32290,,,,Indonesia,Clothing,Cap,10,Paypal,4
+3674,78405,,,35,China,Electronics,Laptop,10,,5
+,38158,,,N/A,Malaysia,Beauty,Perfume,5,Cash,5
+,50331,7/5/2022,5,50,,Toys,Action Figure,15,Debit Card,3
+2303,31296,10/13/2023,5,N/A,USA,Home & Kitchen,Pan Set,,Cash,
+1750,39871,26/08/2023,,50,South Africa,Toys,Board Game,0,Cash,3
+1974,82700,,,50,Turkey,Home & Kitchen,Toaster,10,Paypal,1
+3299,39676,14/05/2023,1,,Japan,Toys,Board Game,10,Paypal,
+,38070,8/22/2023,2,99.99,,Sports,Football,10,,
+2550,56355,5/15/2022,4,99.99,UK,Sports,Cricket Bat,,Cash,2
+,34567,,,N/A,China,Books,Textbook,10,Cash,
+,38600,30/06/2023,5,99.99,France,Electronics,Headphones,5,Paypal,3
+2900,37280,21/02/2024,,35,Italy,Electronics,Power Bank,5,Credit Card,5
+1713,31374,,5,99.99,Australia,Clothing,Jeans,5,,
+1908,75515,1/31/2024,3,10,Spain,Sports,Football,10,Debit Card,2
+1265,38555,10/28/2022,3,20.5,Nepal,Sports,Cricket Bat,,Paypal,2
+1922,71709,19/10/2023,4,99.99,Indonesia,Books,Textbook,0,Credit Card,
+4531,77334,,,99.99,,Electronics,Smart Watch,,,
+,36953,,4,N/A,Mexico,Electronics,Smart Watch,,Paypal,4
+1876,33768,17/05/2024,1,20.5,Nepal,Books,Novel,10,Debit Card,2
+1757,38507,4/10/2022,2,35,,Books,Comics,10,Cash,3
+1364,68041,4/7/2023,3,N/A,Mexico,Toys,Toy Car,10,Credit Card,2
+2256,35992,,3,,Spain,Home & Kitchen,Vacuum Cleaner,,Cash,2
+,64936,,2,99.99,Japan,Toys,Puzzle,5,,1
+,33791,,,99.99,Germany,Home & Kitchen,Toaster,,,3
+1273,33873,12/5/2023,4,N/A,Pakistan,Beauty,Lipstick,,Credit Card,3
+1723,34226,3/6/2022,2,20.5,Spain,Clothing,Jacket,,Credit Card,
+2489,32619,,2,,USA,Toys,Board Game,10,,5
+1557,84271,28/03/2024,,10,,Books,Magazine,,Debit Card,
+2868,35354,1/5/2024,2,,Indonesia,Toys,Puzzle,5,Credit Card,2
+1699,81279,,1,20.5,,Beauty,Lipstick,0,Cash,
+,62936,,2,50,Brazil,Toys,Action Figure,10,,1
+1553,62766,8/1/2024,,10,,Beauty,Moisturizer,15,,3
+1390,69637,10/5/2023,3,99.99,China,Sports,Cricket Bat,,,5
+,38708,7/6/2022,1,N/A,France,Home & Kitchen,Pan Set,0,Paypal,
+1803,61970,12/17/2022,,50,Canada,Home & Kitchen,Mixer,10,,3
+2229,33532,12/3/2023,4,10,Canada,Home & Kitchen,Vacuum Cleaner,15,Debit Card,
+,37830,11/30/2022,,20.5,China,Clothing,Cap,15,Cash,3
+,36046,,3,,Turkey,Clothing,Jacket,15,Credit Card,
+,67970,10/24/2023,4,35,Nepal,Sports,Football,,Cash,3
+,86573,,1,35,Mexico,Books,Notebook,15,Cash,1
+1838,31753,,2,35,Malaysia,Electronics,Laptop,15,Debit Card,3
+,39812,14/04/2022,4,10,Japan,Beauty,Hair Oil,0,Paypal,2
+2694,59857,,3,N/A,USA,Toys,Action Figure,15,Debit Card,3
+,51432,,,,Malaysia,Beauty,Hair Oil,,Cash,
+2315,36934,7/8/2022,,20.5,Nepal,Home & Kitchen,Pan Set,,Cash,3
+,81873,,2,10,Saudi Arabia,Beauty,Face Wash,0,,4
+,68523,,,N/A,USA,Electronics,Power Bank,,Credit Card,5
+3103,87612,3/28/2024,5,20.5,,Books,Novel,,Paypal,
+3664,36567,,4,,,Home & Kitchen,Pan Set,,Paypal,1
+4392,34690,1/10/2023,3,10,Germany,Sports,Yoga Mat,10,Debit Card,5
+1305,73242,11/1/2023,5,50,Canada,Toys,Doll,10,Debit Card,1
+1230,32134,10/2/2022,5,N/A,Australia,Electronics,Power Bank,,Debit Card,2
+,33249,8/27/2022,4,35,Turkey,Home & Kitchen,Microwave,0,Paypal,
+2796,63476,4/3/2023,4,10,France,Toys,Puzzle,,,
+1600,36871,3/8/2022,2,N/A,Canada,Beauty,Face Wash,5,Credit Card,
+1458,37226,5/6/2023,4,35,UK,Beauty,Lipstick,10,Cash,3
+1334,37384,10/30/2023,4,N/A,China,Books,Novel,,Cash,1
+1524,59189,1/10/2022,2,99.99,Bangladesh,Clothing,Jeans,5,Cash,3
+1278,33975,3/6/2023,,20.5,,Beauty,Moisturizer,5,Credit Card,4
+,71041,18/01/2023,4,,Pakistan,Clothing,Jacket,15,Credit Card,
+1880,84419,7/7/2023,4,10,Pakistan,Books,Textbook,10,Debit Card,1
+1976,78863,21/04/2023,1,50,Brazil,Sports,Football,15,Cash,2
+,82296,11/16/2023,3,99.99,Mexico,Home & Kitchen,Vacuum Cleaner,5,Debit Card,2
+1389,56896,5/1/2024,,10,France,Toys,Action Figure,,Cash,3
+,36373,17/06/2023,,99.99,Nepal,Toys,Toy Car,5,,
+3588,61938,,,N/A,India,Books,Novel,5,Debit Card,4
+4513,37646,5/11/2023,5,50,Spain,Home & Kitchen,Mixer,,Cash,5
+,34052,3/11/2023,,35,,Sports,Football,15,,4
+,36987,,,N/A,Pakistan,Toys,Action Figure,,Debit Card,1
+,36695,4/5/2022,,10,Italy,Clothing,Hoodie,,Credit Card,
+1245,64539,,4,N/A,Indonesia,Beauty,Perfume,10,,5
+1148,73767,,5,N/A,Mexico,Books,Textbook,5,Cash,2
+1331,39860,5/29/2024,,,China,Electronics,Laptop,0,Paypal,3
+1239,69660,25/04/2023,4,50,Malaysia,Sports,Yoga Mat,,Cash,2
+4093,59423,3/2/2022,5,10,Turkey,Toys,Board Game,5,Paypal,4
+,59203,,2,N/A,Indonesia,Beauty,Perfume,,Debit Card,2
+1111,39529,,,35,UK,Sports,Cricket Bat,,,4
+1860,79777,,3,N/A,UAE,Clothing,Hoodie,10,Credit Card,4
+2744,81935,,1,,UK,Books,Notebook,0,,5
+1606,78342,,2,N/A,UK,Books,Notebook,10,Cash,3
+,55445,,3,50,,Toys,Board Game,15,Debit Card,5
+1206,37157,11/13/2023,5,50,Bangladesh,Sports,Cricket Bat,0,,
+4959,37911,,5,10,Indonesia,Books,Novel,0,Cash,
+4536,76128,8/11/2023,,50,Nigeria,Books,Comics,5,Credit Card,
+,36875,1/4/2024,3,50,Australia,Home & Kitchen,Mixer,10,Paypal,
+2077,39966,,4,,Turkey,Electronics,Headphones,10,Debit Card,
+3204,70744,,3,35,USA,Sports,Football,,Paypal,3
+,36744,14/02/2024,,20.5,Saudi Arabia,Beauty,Moisturizer,5,Debit Card,3
+1618,86731,14/11/2022,2,99.99,Bangladesh,Electronics,Mobile Phone,,Credit Card,2
+,36573,16/06/2024,,99.99,Germany,Electronics,Mobile Phone,15,Credit Card,
+,52672,,5,99.99,China,Toys,Doll,0,Paypal,2
+3653,31203,3/27/2023,2,20.5,Pakistan,Books,Textbook,,Paypal,
+1787,37547,,5,99.99,China,Sports,Gym Gloves,,Cash,
+,85413,,4,35,Germany,Books,Notebook,10,Debit Card,
+,85085,,2,10,Australia,Beauty,Hair Oil,,Cash,
+2102,38174,,,20.5,Italy,Toys,Board Game,0,Debit Card,1
+,32044,2/28/2022,5,,Indonesia,Beauty,Moisturizer,10,,3
+2764,34525,18/05/2023,,99.99,South Africa,Toys,Action Figure,,Cash,3
+1884,88461,,,99.99,India,Clothing,Cap,,Cash,5
+2694,62754,6/27/2023,5,10,Pakistan,Electronics,Mobile Phone,,Paypal,
+1817,37677,,1,10,Brazil,Electronics,Headphones,5,Cash,2
+,34023,26/12/2023,3,20.5,Canada,Electronics,Headphones,5,Cash,
+,51336,,3,50,Saudi Arabia,Toys,Action Figure,0,Debit Card,1
+1128,86920,1/29/2023,1,35,Canada,Beauty,Face Wash,,,4
+4572,89303,10/4/2022,2,35,Malaysia,Clothing,Cap,5,,2
+4830,70425,9/2/2022,1,99.99,Nepal,Books,Comics,5,,5
+,39978,10/9/2023,4,20.5,UK,Clothing,T-Shirt,,,1
+,62343,3/9/2022,3,20.5,India,Home & Kitchen,Microwave,15,,1
+1639,39715,,1,,Sri Lanka,Books,Magazine,5,Cash,3
+,38129,10/27/2022,,20.5,Brazil,Clothing,Hoodie,0,Paypal,1
+,53612,2/3/2023,4,99.99,USA,Home & Kitchen,Vacuum Cleaner,10,,
+1149,31773,18/11/2022,2,,Canada,Beauty,Hair Oil,10,,1
+1282,74302,6/21/2023,,99.99,Spain,Books,Comics,5,Debit Card,
+1684,31741,5/23/2023,,20.5,Malaysia,Home & Kitchen,Mixer,0,Cash,1
+,52933,,2,50,Australia,Clothing,Jacket,,Cash,4
+1309,67866,4/10/2023,,N/A,Italy,Toys,Board Game,15,Cash,
+,52739,,3,99.99,Malaysia,Clothing,Hoodie,5,Credit Card,
+1287,33742,,2,N/A,Malaysia,Electronics,Mobile Phone,,Paypal,3
+2071,75880,,3,N/A,Brazil,Beauty,Lipstick,5,Debit Card,5
+,62089,4/25/2022,4,10,Italy,Electronics,Smart Watch,,Cash,4
+1778,34447,2/27/2024,4,99.99,Nigeria,Toys,Puzzle,0,Debit Card,3
+1821,75645,19/04/2023,2,35,Mexico,Books,Notebook,0,Debit Card,2
+,35026,,3,,France,Toys,Puzzle,5,,3
+3121,36270,2/24/2023,,10,Germany,Electronics,Mobile Phone,0,Debit Card,1
+1887,57840,,5,10,South Africa,Sports,Football,0,Credit Card,
+1802,75347,,5,,Brazil,Books,Comics,,Cash,3
+3197,59463,11/4/2023,4,20.5,China,Toys,Toy Car,5,Cash,
+,34718,5/28/2022,,35,Sri Lanka,Electronics,Smart Watch,10,Debit Card,4
+,36534,,4,,Turkey,Sports,Gym Gloves,5,,2
+1994,38591,6/8/2023,,20.5,Sri Lanka,Clothing,Jeans,10,Debit Card,4
+1407,77008,10/30/2023,1,99.99,UAE,Clothing,Hoodie,,Debit Card,
+1097,33823,,4,20.5,Nepal,Sports,Yoga Mat,,Debit Card,
+,80708,22/07/2022,,N/A,UAE,Sports,Yoga Mat,,,5
+1267,31864,3/16/2024,,10,UAE,Toys,Action Figure,10,Debit Card,
+,38317,9/3/2022,3,N/A,Malaysia,Clothing,Jeans,5,Cash,3
+1221,33593,,2,20.5,China,Electronics,Power Bank,,Debit Card,1
+,37215,2/13/2024,4,10,,Toys,Puzzle,0,,
+1744,36633,8/9/2023,4,99.99,Saudi Arabia,Books,Notebook,0,Debit Card,2
+1909,36254,,,50,,Beauty,Lipstick,0,Cash,5
+,34146,,1,99.99,Pakistan,Books,Comics,15,Cash,2
+,35470,,,35,USA,Electronics,Laptop,10,,1
+,38702,11/8/2023,1,,India,Clothing,Cap,,Cash,
+,76685,9/6/2023,3,N/A,Indonesia,Sports,Tennis Racket,10,,2
+4763,70880,4/6/2023,3,10,,Sports,Tennis Racket,5,Credit Card,2
+3342,55726,,3,10,Pakistan,Electronics,Laptop,,Cash,
+,71685,10/4/2023,2,99.99,Malaysia,Beauty,Face Wash,5,Debit Card,
+1543,65274,,1,,USA,Electronics,Laptop,15,Cash,
+1607,38687,,4,N/A,Nepal,Beauty,Perfume,,Credit Card,4
+,59430,,1,10,UK,Clothing,Cap,,Credit Card,2
+1750,37754,6/16/2022,,20.5,Italy,Clothing,Jacket,10,Cash,
+2030,54237,1/12/2023,1,,Saudi Arabia,Clothing,Cap,,Credit Card,5
+,32445,,1,,,Books,Comics,10,,
+,37069,9/5/2024,3,,,Electronics,Power Bank,15,Cash,5
+,38617,24/06/2022,2,99.99,,Toys,Puzzle,15,Paypal,
+,33284,26/01/2024,2,20.5,Sri Lanka,Sports,Gym Gloves,5,Paypal,3
+4708,88858,11/9/2023,,N/A,Pakistan,Electronics,Smart Watch,15,Paypal,2
+,86000,5/25/2023,2,10,Brazil,Home & Kitchen,Toaster,,Paypal,4
+2447,38810,3/3/2022,4,,Australia,Sports,Cricket Bat,,Paypal,
+,70356,,4,10,Germany,Clothing,Hoodie,,Cash,3
+1478,81032,3/6/2024,,,Saudi Arabia,Toys,Doll,15,Debit Card,2
+,36582,,,35,Canada,Home & Kitchen,Microwave,5,Cash,
+3496,82020,31/08/2023,2,,Mexico,Toys,Board Game,0,Paypal,
+1573,32096,26/06/2023,3,10,,Clothing,Cap,5,Cash,
+2940,36361,,,N/A,Brazil,Clothing,Jacket,,Debit Card,
+4617,32972,,4,35,India,Home & Kitchen,Toaster,,Debit Card,5
+1533,35885,3/20/2024,3,20.5,Germany,Books,Magazine,10,Credit Card,1
+,33571,22/04/2023,1,35,UK,Toys,Toy Car,10,Paypal,3
+,51111,16/06/2022,4,35,South Africa,Clothing,Cap,15,Cash,2
+,33916,,5,10,,Home & Kitchen,Pan Set,0,Cash,3
+1834,58642,2/27/2022,1,99.99,Germany,Beauty,Hair Oil,5,Credit Card,5
+,37760,1/4/2023,1,N/A,Brazil,Clothing,Jeans,15,,1
+1258,34395,2/10/2023,,N/A,UK,Beauty,Moisturizer,10,Debit Card,2
+4452,81371,10/21/2023,1,10,,Electronics,Power Bank,5,Debit Card,
+1749,31315,1/2/2023,3,35,Pakistan,Clothing,Cap,,Paypal,5
+1335,31117,,2,99.99,USA,Electronics,Mobile Phone,,Cash,5
+1107,35352,,4,20.5,Turkey,Books,Textbook,5,Debit Card,
+,35675,12/1/2022,3,20.5,Spain,Beauty,Lipstick,,,
+2587,34279,,2,10,Nepal,Sports,Cricket Bat,5,,
+1335,66536,26/10/2023,4,10,Pakistan,Home & Kitchen,Toaster,5,Debit Card,
+,33707,2/2/2023,4,,South Africa,Home & Kitchen,Microwave,,Cash,
+4622,31183,4/20/2022,1,99.99,Japan,Toys,Puzzle,15,Paypal,
+1881,77732,12/1/2023,1,10,Italy,Beauty,Perfume,,Credit Card,3
+2076,31497,5/26/2022,1,35,Pakistan,Books,Novel,0,Credit Card,
+,51478,,,99.99,Malaysia,Clothing,Hoodie,5,Debit Card,1
+,77028,,1,10,India,Sports,Gym Gloves,,Credit Card,
+4284,67823,,,50,Spain,Home & Kitchen,Toaster,0,Credit Card,
+1337,35694,5/16/2023,5,,Bangladesh,Beauty,Moisturizer,10,Paypal,
+1480,86111,6/11/2023,2,35,Indonesia,Sports,Yoga Mat,,Cash,4
+,39102,24/04/2023,4,35,Italy,Clothing,Cap,0,,3
+1871,31700,,3,,Sri Lanka,Clothing,Jacket,5,,3
+1571,32339,8/11/2023,,N/A,Mexico,Beauty,Perfume,,Credit Card,5
+1268,36486,7/18/2023,1,35,UAE,Electronics,Power Bank,,Cash,5
+,76738,,,N/A,Sri Lanka,Sports,Yoga Mat,15,Debit Card,
+4970,82453,,,10,Japan,Toys,Puzzle,5,Paypal,3
+4897,51540,9/4/2022,5,,UK,Books,Textbook,5,Debit Card,
+,73430,,1,35,Bangladesh,Books,Novel,10,Cash,4
+1589,31686,9/27/2023,3,50,Brazil,Home & Kitchen,Microwave,10,Cash,1
+4083,36751,1/28/2023,,N/A,Turkey,Home & Kitchen,Pan Set,0,Paypal,
+1351,38449,,3,99.99,UAE,Electronics,Smart Watch,5,,4
+,64192,3/6/2024,3,99.99,Nepal,Electronics,Headphones,5,,
+,68005,12/3/2022,5,50,Nigeria,Toys,Action Figure,0,,4
+1397,71719,,3,N/A,Germany,Clothing,Hoodie,0,Debit Card,4
+1926,61575,5/3/2024,1,50,France,Sports,Cricket Bat,5,Cash,
+1555,57608,8/23/2022,,50,Germany,Toys,Board Game,,,5
+3862,84417,24/03/2024,4,35,Brazil,Electronics,Smart Watch,0,Cash,4
+1998,38776,,1,10,Australia,Beauty,Moisturizer,5,Credit Card,1
+1556,37116,12/11/2023,5,20.5,USA,Clothing,T-Shirt,,Debit Card,5
+,58730,26/08/2022,5,10,India,Sports,Football,,Credit Card,1
+2242,34992,1/10/2022,5,99.99,Canada,Beauty,Lipstick,,Paypal,4
+1748,85481,,1,20.5,Germany,Sports,Cricket Bat,,Debit Card,
+3318,77099,16/03/2022,4,99.99,Italy,Books,Novel,0,Paypal,1
+1787,37402,,,50,Australia,Books,Notebook,,Debit Card,4
+4094,39540,11/6/2024,4,,,Beauty,Hair Oil,0,Paypal,5
+3885,37054,28/03/2022,1,99.99,China,Electronics,Smart Watch,15,Cash,3
+1581,81967,12/11/2022,5,35,UAE,Books,Magazine,0,Paypal,3
+,67776,6/3/2022,5,,UAE,Beauty,Hair Oil,5,,2
+,35323,,2,N/A,Nepal,Home & Kitchen,Toaster,5,,
+1829,86235,4/12/2023,2,,Nigeria,Clothing,Jacket,,Debit Card,1
+1908,33999,30/07/2022,,20.5,Australia,Toys,Doll,15,Paypal,
+1360,54721,16/12/2022,4,99.99,South Africa,Home & Kitchen,Vacuum Cleaner,15,Credit Card,1
+,83496,18/07/2023,4,50,India,Clothing,Jacket,15,Paypal,5
+1489,58055,11/17/2022,4,50,USA,Electronics,Smart Watch,10,Credit Card,5
+1860,77739,,2,N/A,Nigeria,Beauty,Lipstick,0,Credit Card,1
+2760,35370,10/19/2022,,35,Germany,Home & Kitchen,Vacuum Cleaner,0,,5
+1308,51142,,2,N/A,Indonesia,Home & Kitchen,Microwave,,Cash,
+2664,80114,5/15/2024,1,20.5,China,Sports,Football,0,Credit Card,2
+,79239,5/31/2024,4,99.99,USA,Toys,Doll,15,Paypal,4
+1123,34360,8/2/2024,,99.99,,Clothing,Hoodie,,Cash,3
+1552,63465,,5,99.99,USA,Electronics,Smart Watch,,Paypal,2
+,66303,18/11/2022,2,20.5,Bangladesh,Books,Comics,15,Credit Card,
+2852,36655,8/3/2022,,,Pakistan,Beauty,Perfume,15,Paypal,
+,35257,9/19/2022,1,50,France,Sports,Gym Gloves,5,,
+,73892,7/20/2022,5,N/A,Malaysia,Beauty,Hair Oil,5,Credit Card,5
+,59766,23/03/2022,1,35,China,Toys,Board Game,5,Debit Card,4
+1194,33882,,5,10,Brazil,Home & Kitchen,Microwave,15,Debit Card,2
+1275,67632,20/03/2022,5,,South Africa,Electronics,Laptop,10,Debit Card,2
+2333,67847,,2,N/A,Mexico,Beauty,Perfume,0,Paypal,2
+1347,35575,5/16/2024,4,20.5,Spain,Clothing,T-Shirt,5,Credit Card,
+,31009,12/2/2024,,99.99,Mexico,Clothing,Jeans,15,Paypal,5
+,37638,,5,50,Italy,Beauty,Moisturizer,5,,
+,32892,31/07/2022,,10,Turkey,Sports,Cricket Bat,10,Cash,1
+1545,59644,,2,N/A,,Home & Kitchen,Pan Set,10,Paypal,2
+,80487,16/09/2022,2,50,Germany,Clothing,T-Shirt,15,Credit Card,2
+,32279,24/02/2022,3,35,Mexico,Clothing,T-Shirt,,Paypal,1
+1417,60875,12/6/2022,1,35,Indonesia,Books,Comics,,,3
+3134,37609,,5,20.5,Spain,Electronics,Mobile Phone,10,,3
+,81949,,1,N/A,,Home & Kitchen,Toaster,,,5
+,67505,12/5/2022,,50,USA,Electronics,Laptop,,Paypal,3
+1049,34172,11/7/2022,1,10,Italy,Sports,Cricket Bat,,,3
+1371,81631,29/05/2024,1,20.5,France,Clothing,T-Shirt,,Paypal,1
+,39977,,,35,Nepal,Electronics,Smart Watch,10,,2
+4302,31364,13/10/2022,5,,China,Toys,Board Game,10,,3
+,56979,11/4/2022,1,99.99,Australia,Sports,Gym Gloves,15,Debit Card,1
+,36426,2/27/2023,5,35,Australia,Toys,Board Game,5,,4
+,37786,2/28/2022,,35,UAE,Toys,Action Figure,10,Credit Card,3
+,65408,,4,50,,Clothing,Hoodie,5,Cash,2
+1339,55394,,5,50,Italy,Beauty,Lipstick,15,Credit Card,
+1727,37009,,1,10,Nigeria,Books,Textbook,0,Credit Card,2
+1140,50013,20/08/2023,1,10,Brazil,Home & Kitchen,Toaster,0,Cash,5
+,32064,,,99.99,China,Home & Kitchen,Vacuum Cleaner,5,,1
+,38744,18/10/2022,2,,Mexico,Sports,Yoga Mat,10,Cash,
+,71404,29/08/2022,4,N/A,Germany,Toys,Toy Car,,Debit Card,1
+1441,32203,1/6/2022,5,10,Malaysia,Electronics,Mobile Phone,10,,2
+1759,86183,6/5/2022,4,50,Sri Lanka,Toys,Toy Car,0,Cash,2
+,34056,20/02/2022,3,10,Nepal,Sports,Cricket Bat,15,Cash,4
+1422,62056,9/3/2023,,,Italy,Clothing,Jacket,0,Paypal,3
+,33957,6/10/2023,2,20.5,,Clothing,T-Shirt,0,Cash,
+1594,63219,3/1/2022,3,35,Nepal,Home & Kitchen,Vacuum Cleaner,,,3
+4795,31645,,5,99.99,Nigeria,Beauty,Moisturizer,,Cash,5
+1517,38774,7/12/2022,1,35,Bangladesh,Books,Comics,,Debit Card,3
+2229,35163,29/09/2022,2,50,Pakistan,Books,Magazine,,Debit Card,1
+2761,39769,1/3/2022,2,50,Mexico,Clothing,Hoodie,,Cash,
+1777,68845,7/8/2022,4,99.99,South Africa,Beauty,Face Wash,,Cash,2
+1436,66095,3/16/2023,1,,Germany,Beauty,Perfume,,Cash,2
+1662,60741,2/3/2023,,35,Japan,Toys,Doll,,,
+4494,54324,5/5/2022,2,N/A,,Electronics,Mobile Phone,15,Cash,1
+1784,32364,5/6/2022,4,99.99,Saudi Arabia,Beauty,Hair Oil,5,Paypal,
+4731,54157,19/01/2022,3,,France,Clothing,Cap,,,2
+,39395,5/23/2024,1,35,France,Sports,Tennis Racket,5,,
+4998,38501,10/3/2022,,,Sri Lanka,Sports,Yoga Mat,10,Debit Card,1
+1117,36549,,2,10,Pakistan,Electronics,Smart Watch,10,Paypal,1
+1219,38756,,5,99.99,South Africa,Clothing,T-Shirt,,Cash,1
+,37973,10/16/2023,,N/A,UK,Beauty,Face Wash,0,Cash,
+,39699,6/6/2022,,50,Brazil,Clothing,Jacket,10,Cash,4
+3915,32640,7/9/2022,3,35,UK,Electronics,Mobile Phone,10,Cash,3
+4278,35530,,5,20.5,,Electronics,Laptop,,Credit Card,
+1404,32645,12/9/2023,5,N/A,Japan,Toys,Board Game,15,Credit Card,
+1196,32750,5/21/2022,,10,Brazil,Home & Kitchen,Toaster,10,Paypal,5
+4666,55374,7/29/2023,2,99.99,Sri Lanka,Electronics,Headphones,,Credit Card,
+3900,34909,1/17/2024,4,20.5,Nepal,Books,Novel,,Cash,5
+1243,34153,1/9/2022,4,99.99,Germany,Books,Textbook,15,,4
+1227,35177,9/24/2023,3,20.5,UK,Beauty,Lipstick,15,,2
+1933,88024,8/14/2023,,20.5,Malaysia,Toys,Doll,0,Debit Card,2
+2616,68123,,,10,Canada,Toys,Action Figure,,Credit Card,
+1845,33019,16/12/2022,4,10,Italy,Toys,Action Figure,15,,
+3601,75507,,,20.5,Nepal,Home & Kitchen,Pan Set,5,Paypal,4
+2774,31976,,1,35,Japan,Home & Kitchen,Pan Set,5,Paypal,1
+2745,81013,,3,35,Spain,Home & Kitchen,Microwave,10,Cash,
+,75598,3/6/2024,2,,Australia,Clothing,Hoodie,15,Debit Card,1
+1664,32799,,,50,Saudi Arabia,Books,Textbook,,Cash,
+1417,76457,,,,UK,Electronics,Headphones,5,Cash,3
+1728,33997,,,,Pakistan,Books,Textbook,5,Credit Card,3
+1005,32777,,4,99.99,,Books,Magazine,15,Cash,
+1785,87041,6/10/2023,5,20.5,Brazil,Books,Notebook,,Debit Card,2
+2930,36462,1/1/2023,,35,Italy,Home & Kitchen,Mixer,,Credit Card,
+2682,38652,,5,20.5,Indonesia,Electronics,Mobile Phone,0,Credit Card,
+4022,74305,15/08/2022,,20.5,Pakistan,Beauty,Moisturizer,,Paypal,1
+1342,32532,,4,20.5,South Africa,Home & Kitchen,Vacuum Cleaner,,Debit Card,1
+1812,50416,5/11/2023,5,20.5,UAE,Sports,Tennis Racket,0,Credit Card,5
+,73389,1/1/2022,5,35,Indonesia,Beauty,Perfume,0,,1
+1339,52962,4/22/2024,2,20.5,Canada,Toys,Doll,5,Cash,4
+1220,37007,,2,99.99,Italy,Electronics,Smart Watch,5,Credit Card,
+1135,61475,6/25/2022,4,10,,Clothing,Hoodie,5,Debit Card,1
+3865,39523,23/08/2022,1,50,France,Clothing,Hoodie,,,
+,36172,,4,50,Canada,Beauty,Perfume,,Credit Card,2
+1193,57559,7/3/2023,4,N/A,Indonesia,Sports,Tennis Racket,,,
+1829,58861,,4,50,Australia,Electronics,Power Bank,5,Debit Card,1
+3207,72224,5/9/2022,5,10,China,Beauty,Hair Oil,10,,2
+4482,59156,,1,50,Germany,Books,Textbook,,Paypal,1
+2318,68108,2/18/2024,1,,,Sports,Yoga Mat,0,Credit Card,
+,60808,,,N/A,Canada,Toys,Action Figure,15,Credit Card,4
+1745,89640,28/02/2022,,35,UAE,Books,Magazine,15,Credit Card,
+1187,39847,25/09/2022,,35,Brazil,Beauty,Lipstick,,Credit Card,2
+,31661,18/03/2024,5,99.99,Pakistan,Clothing,Jacket,0,,1
+3607,39452,,2,50,Germany,Electronics,Headphones,15,Paypal,5
+2103,71079,27/03/2024,4,20.5,Japan,Electronics,Laptop,5,,4
+3560,76655,10/2/2022,5,,Bangladesh,Toys,Action Figure,,,4
+1897,84460,3/1/2024,,10,India,Beauty,Lipstick,10,Credit Card,1
+1669,35286,,3,N/A,France,Books,Comics,,Paypal,4
+1292,37548,1/6/2024,2,50,Germany,Clothing,Cap,,Credit Card,2
+1274,36038,30/10/2022,5,,France,Toys,Toy Car,0,Debit Card,4
+,32705,13/01/2024,3,,USA,Books,Textbook,15,Credit Card,
+,69045,10/6/2022,,50,,Sports,Tennis Racket,5,Cash,3
+4733,38697,5/6/2024,3,20.5,Italy,Beauty,Perfume,10,Cash,5
+1925,74141,1/3/2024,5,10,UAE,Beauty,Hair Oil,,Debit Card,4
+1396,53769,12/15/2022,,,Canada,Beauty,Face Wash,5,Cash,2
+4618,75868,11/19/2022,3,99.99,USA,Books,Magazine,0,,4
+1149,63016,,,N/A,Nepal,Beauty,Moisturizer,5,Paypal,2
+1160,32374,20/08/2022,,35,Turkey,Clothing,Hoodie,0,Paypal,5
+4539,50699,1/8/2024,,99.99,,Books,Comics,0,,1
+1711,35004,11/5/2022,1,99.99,Brazil,Home & Kitchen,Pan Set,,Paypal,3
+,34501,3/5/2022,,99.99,Bangladesh,Toys,Doll,10,Debit Card,1
+1991,87685,,5,10,Japan,Electronics,Headphones,5,Debit Card,4
+,62760,1/28/2022,3,N/A,Bangladesh,Beauty,Moisturizer,,,2
+2383,56044,,4,35,Indonesia,Electronics,Laptop,,Cash,2
+1475,51392,13/02/2022,4,,Turkey,Beauty,Hair Oil,15,Paypal,
+1477,77952,4/9/2022,5,,India,Toys,Action Figure,,Debit Card,3
+4568,33523,4/17/2024,5,10,UAE,Sports,Gym Gloves,,Debit Card,1
+,34004,,3,35,UK,Clothing,Jeans,15,Paypal,4
+,69031,9/29/2023,,20.5,Japan,Books,Magazine,,Credit Card,
+,86063,17/12/2022,,20.5,India,Beauty,Moisturizer,5,Debit Card,
+,79591,,,10,Saudi Arabia,Home & Kitchen,Vacuum Cleaner,,,
+1116,79694,6/7/2022,3,99.99,,Electronics,Headphones,,,5
+1484,69425,,,99.99,Japan,Toys,Toy Car,5,,
+,32686,8/6/2023,4,,,Home & Kitchen,Vacuum Cleaner,,Cash,5
+1757,33314,21/04/2022,2,20.5,Nigeria,Beauty,Perfume,,Credit Card,4
+2630,79961,,5,50,Spain,Beauty,Face Wash,5,Debit Card,3
+1786,89478,,5,99.99,Germany,Beauty,Perfume,,,
+1517,33334,19/12/2022,,10,Pakistan,Electronics,Headphones,,Debit Card,4
+,37265,31/05/2022,5,,Italy,Beauty,Lipstick,,Credit Card,
+1200,34117,,5,50,UAE,Clothing,T-Shirt,0,Cash,
+,83359,6/2/2022,4,99.99,France,Clothing,Jacket,15,Debit Card,1
+4716,32913,,4,99.99,Canada,Electronics,Power Bank,0,Credit Card,
+4499,54339,,3,N/A,Sri Lanka,Clothing,Cap,10,Credit Card,3
+,76724,,1,N/A,Spain,Toys,Board Game,,Paypal,
+,39114,14/08/2022,,35,Bangladesh,Clothing,T-Shirt,10,Paypal,2
+,33247,2/17/2023,2,,South Africa,Electronics,Smart Watch,0,Paypal,
+1816,54377,14/06/2022,4,10,Mexico,Toys,Toy Car,,,3
+1950,70591,4/10/2023,2,20.5,Saudi Arabia,Electronics,Laptop,15,Credit Card,4
+1268,56662,7/29/2022,4,10,Turkey,Beauty,Face Wash,0,Debit Card,
+,39947,17/11/2023,,99.99,UK,Sports,Cricket Bat,5,Debit Card,4
+1150,61055,9/28/2022,3,35,Turkey,Electronics,Power Bank,10,,1
+,63427,19/10/2022,4,35,Brazil,Books,Novel,,Credit Card,2
+4748,50918,24/06/2022,,99.99,Nigeria,Sports,Gym Gloves,,Debit Card,1
+1686,39049,3/6/2023,3,99.99,,Toys,Puzzle,15,Debit Card,
+1281,70869,18/05/2024,2,10,Australia,Books,Magazine,,Paypal,
+1836,78094,26/08/2023,,,Brazil,Electronics,Smart Watch,,Credit Card,4
+4194,51013,15/06/2023,2,50,South Africa,Books,Comics,5,Credit Card,
+1435,32412,,2,20.5,Nepal,Books,Textbook,10,Credit Card,
+1514,59852,12/5/2023,4,10,Nigeria,Home & Kitchen,Vacuum Cleaner,5,Cash,5
+1704,34853,,,99.99,Bangladesh,Sports,Gym Gloves,,Cash,
+4485,34765,,2,20.5,Bangladesh,Beauty,Face Wash,,Cash,5
+1853,83567,12/12/2022,3,99.99,Saudi Arabia,Home & Kitchen,Microwave,15,,5
+1375,39912,28/03/2023,,,Turkey,Sports,Football,15,Debit Card,5
+2125,38559,,1,99.99,South Africa,Books,Textbook,15,Paypal,5
+3036,58486,2/6/2023,5,50,Indonesia,Clothing,Cap,0,,3
+1798,65563,,1,50,China,Toys,Board Game,0,Cash,
+1567,52511,12/6/2022,,99.99,China,Sports,Gym Gloves,,Debit Card,
+1286,38547,10/2/2022,,35,Germany,Toys,Doll,10,,3
+1857,67645,12/1/2023,,20.5,South Africa,Clothing,Jeans,,Credit Card,3
+3787,36535,12/2/2023,3,10,UAE,Sports,Cricket Bat,15,Debit Card,5
+,84717,6/8/2024,5,20.5,Mexico,Clothing,Hoodie,0,,
+,75315,,3,10,UAE,Sports,Tennis Racket,15,Cash,
+3572,83574,10/11/2022,1,20.5,Bangladesh,Home & Kitchen,Microwave,15,Debit Card,1
+,32409,12/8/2022,,,Turkey,Clothing,Cap,10,Credit Card,3
+2342,33842,,1,35,Canada,Home & Kitchen,Pan Set,15,Paypal,
+,31263,3/28/2024,1,20.5,Malaysia,Books,Magazine,,Credit Card,3
+,32999,,1,N/A,India,Books,Novel,,Debit Card,
+1964,36706,5/13/2022,3,35,Germany,Sports,Football,10,,
+1891,37807,,4,10,Spain,Books,Comics,10,Cash,
+1445,39869,,4,,Nigeria,Clothing,Jeans,15,Cash,
+3513,33111,,,,UK,Books,Notebook,0,Paypal,3
+,74412,2/10/2022,,10,Australia,Electronics,Laptop,5,Credit Card,
+,52214,,1,20.5,Sri Lanka,Home & Kitchen,Toaster,15,,
+1632,37321,10/19/2022,3,35,Brazil,Clothing,T-Shirt,,Debit Card,4
+1253,33125,,,35,Indonesia,Sports,Gym Gloves,,Debit Card,3
+4298,85609,8/12/2022,1,99.99,USA,Home & Kitchen,Microwave,5,Debit Card,5
+,50531,2/10/2023,,35,China,Clothing,T-Shirt,15,Debit Card,2
+,76478,,4,35,Spain,Toys,Board Game,5,Debit Card,3
+1471,67408,4/2/2024,3,35,Germany,Sports,Gym Gloves,,Credit Card,3
+1975,79725,,1,99.99,UK,Clothing,Cap,15,Credit Card,5
+3643,54149,5/4/2022,,50,Spain,Books,Textbook,,Debit Card,5
+2334,34507,1/30/2022,2,N/A,UK,Toys,Board Game,,Paypal,
+1666,59428,7/11/2022,1,,Sri Lanka,Home & Kitchen,Vacuum Cleaner,10,Debit Card,
+,33001,,2,35,Sri Lanka,Beauty,Hair Oil,15,Paypal,2
+,66639,1/21/2022,3,20.5,Spain,Clothing,Hoodie,,,4
+1286,35038,,5,20.5,Brazil,Electronics,Laptop,,Credit Card,2
+4874,58563,,2,99.99,,Sports,Tennis Racket,0,Debit Card,
+1155,62349,1/14/2024,,N/A,China,Home & Kitchen,Pan Set,,Paypal,5
+,34450,,5,99.99,Mexico,Books,Comics,10,Debit Card,2
+4431,31284,28/03/2024,4,10,Australia,Toys,Board Game,15,Credit Card,
+1272,63765,4/17/2023,3,10,Sri Lanka,Beauty,Hair Oil,,Debit Card,
+,38831,,,35,Indonesia,Toys,Board Game,,Debit Card,1
+2925,88894,,1,99.99,UK,Beauty,Perfume,5,Paypal,1
+1848,37719,,,20.5,Germany,Toys,Puzzle,0,Credit Card,5
+2649,61842,,1,10,Indonesia,Books,Novel,0,Paypal,2
+4112,62972,26/06/2023,,,Nigeria,Toys,Doll,5,Paypal,4
+1566,69756,11/8/2023,5,10,,Home & Kitchen,Microwave,10,Debit Card,1
+1504,33303,7/26/2023,1,N/A,Nigeria,Electronics,Headphones,,Cash,2
+1960,37008,,3,50,Turkey,Clothing,Cap,0,Credit Card,
+1811,82542,5/12/2022,5,35,Spain,Clothing,Cap,0,Debit Card,3
+,70115,12/1/2022,3,99.99,China,Clothing,Hoodie,0,Debit Card,1
+2482,34781,7/5/2022,1,50,India,Clothing,Hoodie,5,,5
+1536,51466,3/29/2022,,,Germany,Electronics,Smart Watch,10,,
+1947,34634,6/3/2024,3,35,Australia,Electronics,Headphones,0,Credit Card,1
+1886,37038,1/8/2023,4,50,Bangladesh,Beauty,Lipstick,0,Cash,4
+4454,66467,3/12/2023,3,35,,Beauty,Lipstick,10,Paypal,4
+1221,58037,3/2/2022,1,99.99,,Electronics,Mobile Phone,,Paypal,5
+,60608,,4,50,Pakistan,Clothing,T-Shirt,,Credit Card,
+1131,57089,1/6/2022,4,10,USA,Toys,Doll,5,,1
+2892,71767,25/02/2022,1,20.5,Saudi Arabia,Sports,Gym Gloves,,Cash,4
+1467,31285,6/29/2022,,50,Saudi Arabia,Home & Kitchen,Microwave,,,
+,51945,,4,,Pakistan,Home & Kitchen,Pan Set,10,Debit Card,
+,38167,10/6/2022,5,50,Germany,Books,Textbook,0,Cash,5
+,51243,22/05/2022,2,N/A,Turkey,Electronics,Power Bank,15,Paypal,1
+4092,38322,,,99.99,Spain,Home & Kitchen,Toaster,0,Cash,1
+4146,86891,11/7/2023,5,20.5,Australia,Electronics,Headphones,,Credit Card,3
+3493,35876,18/09/2023,1,35,,Books,Textbook,,,4
+,37792,,,10,South Africa,Toys,Puzzle,,Cash,1
+2986,38862,8/10/2022,1,20.5,Australia,Sports,Gym Gloves,5,Cash,4
+1705,32866,6/12/2023,,,USA,Clothing,Jeans,,Cash,2
+,85425,4/24/2023,1,20.5,Italy,Sports,Cricket Bat,0,Debit Card,
+3571,85766,8/11/2023,,N/A,Nepal,Toys,Action Figure,,,5
+2837,55472,,5,N/A,South Africa,Beauty,Hair Oil,,,3
+1172,35260,,1,N/A,Germany,Toys,Board Game,5,Credit Card,4
+1550,74497,,5,,France,Home & Kitchen,Vacuum Cleaner,0,Credit Card,3
+2938,34095,,4,50,USA,Beauty,Face Wash,10,,4
+1936,33709,,2,99.99,Mexico,Electronics,Mobile Phone,5,Paypal,
+1780,53278,,5,,Saudi Arabia,Books,Comics,5,Credit Card,3
+,52884,3/10/2023,,99.99,Brazil,Books,Novel,10,,5
+,88078,29/12/2022,,50,Sri Lanka,Clothing,Jacket,0,,4
+2571,67355,21/01/2023,,99.99,Spain,Toys,Doll,,Cash,2
+,33618,,1,20.5,,Electronics,Smart Watch,5,Paypal,3
+4963,39759,,2,10,Malaysia,Beauty,Hair Oil,,Debit Card,5
+1254,32116,2/9/2023,2,35,Bangladesh,Electronics,Smart Watch,0,Credit Card,3
+1874,66271,8/24/2023,,10,Malaysia,Electronics,Laptop,15,Credit Card,2
+2399,35169,,,50,Mexico,Clothing,Hoodie,0,Paypal,3
+,59479,,2,35,UK,Books,Novel,15,Cash,
+1906,77288,8/10/2022,,35,,Electronics,Laptop,,Paypal,
+1651,85823,22/09/2022,2,,Spain,Electronics,Power Bank,,Debit Card,1
+3117,64842,28/02/2023,4,35,Sri Lanka,Home & Kitchen,Mixer,15,Cash,5
+1354,37485,25/09/2023,,99.99,Mexico,Sports,Yoga Mat,15,,3
+1421,53230,,3,35,Germany,Toys,Action Figure,,,
+2956,31728,3/10/2024,,,USA,Clothing,T-Shirt,15,Credit Card,4
+1870,34393,3/9/2023,2,N/A,Australia,Toys,Action Figure,15,Debit Card,1
+,81818,1/17/2023,3,35,Bangladesh,Beauty,Hair Oil,,,3
+2024,37165,,3,99.99,China,Books,Textbook,,,5
+,67179,21/02/2022,4,50,UAE,Sports,Gym Gloves,15,Cash,4
+,70901,,3,99.99,,Books,Comics,,Credit Card,4
+,74986,14/01/2023,,N/A,UAE,Clothing,Jeans,,Cash,1
+3491,31150,9/11/2023,,35,France,Electronics,Smart Watch,0,Debit Card,2
+1589,36089,4/8/2023,,N/A,,Home & Kitchen,Microwave,10,,1
+2150,37103,,1,10,,Sports,Football,,Paypal,1
+,81535,5/1/2023,1,10,USA,Electronics,Power Bank,5,,5
+2119,76774,,,10,,Home & Kitchen,Pan Set,15,Credit Card,2
+3165,81373,28/07/2022,2,10,Saudi Arabia,Toys,Action Figure,,,
+1938,37037,,1,50,France,Sports,Yoga Mat,10,Debit Card,1
+,73725,8/27/2022,,N/A,Nepal,Toys,Board Game,15,Cash,3
+2386,62898,4/24/2023,3,,Canada,Toys,Doll,5,Paypal,3
+1603,38385,25/01/2024,5,N/A,,Books,Magazine,5,Debit Card,
+1988,85317,2/1/2022,4,20.5,Brazil,Home & Kitchen,Microwave,10,Credit Card,
+,31683,10/3/2022,,N/A,Malaysia,Beauty,Face Wash,,Debit Card,1
+1658,59491,29/11/2022,,20.5,Australia,Sports,Yoga Mat,10,Credit Card,1
+,39276,,5,10,USA,Books,Novel,15,Cash,2
+,53505,,3,,Saudi Arabia,Home & Kitchen,Toaster,,Credit Card,4
+4212,51020,,2,50,Bangladesh,Beauty,Hair Oil,0,Debit Card,5
+1651,75296,,5,,Bangladesh,Sports,Yoga Mat,0,Cash,3
+,33253,7/5/2024,,20.5,Australia,Sports,Yoga Mat,0,Credit Card,
+3910,67550,,5,,Sri Lanka,Toys,Board Game,5,,4
+4245,57387,5/8/2023,2,20.5,France,Clothing,Cap,,Debit Card,2
+3281,59548,8/15/2023,1,,Pakistan,Beauty,Hair Oil,5,Debit Card,2
+,74864,6/19/2023,1,,Mexico,Electronics,Mobile Phone,,,
+3928,50734,8/5/2023,,,Canada,Books,Magazine,10,Paypal,
+,70927,,1,,Mexico,Electronics,Headphones,0,Paypal,3
+,88581,7/19/2022,,20.5,Pakistan,Sports,Yoga Mat,5,Credit Card,4
+,37212,1/14/2023,2,10,UAE,Books,Comics,0,Credit Card,4
+1113,37077,4/5/2022,4,35,Malaysia,Sports,Gym Gloves,0,Debit Card,3
+1728,67620,,5,35,Bangladesh,Electronics,Smart Watch,0,Cash,
+1401,37191,7/16/2023,4,50,Turkey,Beauty,Perfume,,Paypal,
+1668,32938,,2,99.99,Nepal,Electronics,Power Bank,,Paypal,
+,36947,1/15/2023,3,10,Nigeria,Beauty,Face Wash,15,Paypal,1
+4863,36873,,2,20.5,Mexico,Toys,Board Game,,,
+1322,87462,11/6/2022,4,10,,Books,Textbook,15,Cash,3
+1397,33260,14/05/2023,1,50,Turkey,Beauty,Lipstick,,Debit Card,
+1760,59480,,5,,Malaysia,Electronics,Mobile Phone,,Paypal,2
+,32219,5/25/2022,2,20.5,,Sports,Tennis Racket,,Cash,
+,37108,4/18/2022,3,20.5,UAE,Toys,Doll,15,,2
+,50003,5/14/2024,2,20.5,Sri Lanka,Electronics,Power Bank,15,Debit Card,
+1703,68248,,3,10,France,Home & Kitchen,Pan Set,,,3
+1632,83863,,1,10,China,Toys,Doll,,Paypal,2
+,50409,2/3/2023,4,10,,Electronics,Laptop,10,,
+1101,61665,,1,10,USA,Toys,Action Figure,10,Debit Card,4
+,53489,8/21/2022,,35,India,Electronics,Mobile Phone,15,Credit Card,
+,39260,,3,,Malaysia,Sports,Yoga Mat,10,Cash,2
+1523,34495,19/06/2023,,99.99,Germany,Books,Textbook,,Cash,3
+1739,33314,1/21/2024,4,N/A,,Sports,Football,10,,1
+,86797,,1,35,France,Clothing,T-Shirt,0,Paypal,3
+4129,33480,,4,35,India,Clothing,Jacket,15,Cash,5
+1702,35118,,,50,Mexico,Sports,Football,5,,3
+1916,69524,,,20.5,India,Clothing,Jacket,10,Cash,1
+,71991,21/02/2022,3,,Turkey,Sports,Gym Gloves,5,Debit Card,5
+,31696,,5,10,Malaysia,Clothing,T-Shirt,10,Credit Card,
+1573,75421,3/27/2022,2,10,UAE,Beauty,Face Wash,10,Paypal,
+1688,76615,1/7/2022,,,China,Sports,Football,,Credit Card,
+,87086,5/19/2022,1,,France,Clothing,T-Shirt,15,Credit Card,1
+,35253,,3,20.5,Bangladesh,Home & Kitchen,Mixer,10,Credit Card,4
+1553,33115,,,50,South Africa,Home & Kitchen,Mixer,0,Cash,
+1336,54309,22/10/2023,,35,Japan,Toys,Board Game,,,2
+,72820,8/16/2023,2,,Italy,Home & Kitchen,Mixer,0,,5
+1741,34627,,1,10,Bangladesh,Toys,Doll,5,,3
+2394,73681,8/4/2023,3,,India,Home & Kitchen,Microwave,15,Paypal,5
+1538,32207,,,10,Spain,Beauty,Face Wash,15,Cash,1
+3844,34175,1/10/2022,4,99.99,Nigeria,Books,Textbook,,Cash,
+2877,71900,5/18/2023,1,50,France,Clothing,T-Shirt,,Cash,
+2282,34008,1/24/2023,4,20.5,Spain,Electronics,Mobile Phone,,Cash,2
+1686,59794,9/11/2023,,20.5,UAE,Beauty,Face Wash,0,Credit Card,1
+1531,53040,10/21/2023,5,10,Sri Lanka,Toys,Action Figure,,,4
+4630,37432,6/5/2022,2,10,,Beauty,Lipstick,5,,1
+1676,38391,,4,35,France,Home & Kitchen,Toaster,0,Debit Card,5
+1686,34936,,,50,,Toys,Board Game,5,Credit Card,
+,80273,,3,35,Bangladesh,Clothing,Hoodie,5,Credit Card,4
+1331,86092,5/12/2024,,35,Italy,Electronics,Mobile Phone,,Debit Card,1
+1461,39556,,,,Pakistan,Toys,Board Game,,Cash,5
+3060,37085,,1,N/A,South Africa,Electronics,Smart Watch,0,,3
+3883,75016,,,50,India,Beauty,Moisturizer,10,Debit Card,4
+1484,39331,3/10/2022,,20.5,,Beauty,Hair Oil,,Cash,3
+1272,81245,6/11/2023,,10,France,Home & Kitchen,Mixer,,Debit Card,5
+1238,31969,5/8/2024,2,,China,Home & Kitchen,Vacuum Cleaner,10,Paypal,3
+1637,32081,7/2/2024,,20.5,Nigeria,Toys,Puzzle,,Debit Card,
+1053,31830,,,,Malaysia,Electronics,Laptop,5,Debit Card,
+2471,34992,,,50,Canada,Clothing,Jeans,0,Debit Card,5
+2038,31941,,3,10,,Electronics,Smart Watch,,Debit Card,
+4699,85210,2/12/2023,4,35,Nepal,Sports,Gym Gloves,0,Debit Card,5
+,69564,12/4/2023,,N/A,Nigeria,Electronics,Smart Watch,,,2
+1859,32095,12/5/2024,3,20.5,France,Electronics,Mobile Phone,5,,1
+1057,37649,14/05/2023,1,50,Turkey,Books,Textbook,15,Credit Card,4
+,73727,8/8/2023,2,10,Nigeria,Clothing,Hoodie,10,Cash,3
+,89626,,4,50,Italy,Toys,Action Figure,10,Credit Card,3
+1777,33206,4/10/2023,4,20.5,USA,Toys,Board Game,10,Debit Card,3
+1451,36252,,,20.5,Germany,Clothing,Hoodie,0,,
+1708,56428,,5,,Australia,Beauty,Face Wash,,Cash,
+,34293,8/8/2023,,99.99,Germany,Toys,Action Figure,,Cash,4
+3177,66090,1/9/2023,,10,,Clothing,Jacket,,Debit Card,1
+3045,35375,26/06/2023,,,,Electronics,Headphones,,Paypal,
+1511,67580,26/03/2024,4,35,Australia,Beauty,Lipstick,15,Cash,5
+1895,32041,1/16/2024,4,50,China,Sports,Tennis Racket,5,Credit Card,2
+1108,71760,3/7/2023,3,10,France,Home & Kitchen,Toaster,15,,2
+,61909,2/11/2023,5,50,Spain,Home & Kitchen,Toaster,10,Debit Card,2
+,53449,7/5/2022,1,35,,Home & Kitchen,Vacuum Cleaner,5,Paypal,
+1874,79675,,,35,,Electronics,Headphones,15,Debit Card,1
+3810,39697,10/24/2023,1,99.99,Germany,Toys,Action Figure,0,Credit Card,3
+2150,36943,,4,10,France,Toys,Board Game,15,,
+,32842,11/28/2023,3,N/A,Sri Lanka,Sports,Tennis Racket,5,Credit Card,
+4039,38286,15/06/2024,,35,Germany,Beauty,Moisturizer,,Paypal,4
+2917,68262,,4,20.5,Malaysia,Toys,Doll,10,Debit Card,
+1764,52990,1/12/2023,1,10,Brazil,Sports,Yoga Mat,,Debit Card,
+2896,57858,,3,20.5,Japan,Clothing,T-Shirt,5,,
+1641,55691,2/21/2024,,20.5,Canada,Books,Novel,0,Debit Card,4
+,61535,,3,,Indonesia,Beauty,Lipstick,,Paypal,
+,63972,1/18/2023,2,,Germany,Clothing,Jacket,,Paypal,2
+3490,36957,,2,99.99,Malaysia,Toys,Board Game,5,Cash,2
+3077,80771,3/31/2022,4,50,South Africa,Clothing,Jeans,15,Credit Card,5
+1223,34275,3/17/2024,5,50,UK,Clothing,Hoodie,0,Paypal,1
+1943,64566,23/10/2023,1,35,Nepal,Clothing,Hoodie,,Paypal,
+,36313,22/09/2022,5,N/A,Germany,Books,Notebook,5,Debit Card,2
+1117,35784,12/31/2023,2,20.5,Saudi Arabia,Toys,Puzzle,,,2
+,61995,29/12/2022,2,,Sri Lanka,Toys,Puzzle,0,Paypal,2
+1975,57519,8/9/2022,,N/A,Turkey,Books,Comics,,Paypal,3
+1334,32999,11/17/2023,1,50,Pakistan,Electronics,Laptop,,Credit Card,2
+,34755,,2,50,Saudi Arabia,Books,Comics,15,Credit Card,3
+,87268,,,50,Nepal,Toys,Doll,0,Cash,1
+,38016,8/3/2023,1,10,Nigeria,Sports,Tennis Racket,,Credit Card,5
+1561,82548,8/29/2023,5,20.5,Brazil,Toys,Toy Car,0,Debit Card,1
+1172,82514,,4,20.5,Nepal,Home & Kitchen,Microwave,0,Debit Card,3
+1540,38581,9/2/2024,5,20.5,India,Electronics,Laptop,,,4
+4658,55236,18/05/2023,2,50,Sri Lanka,Clothing,T-Shirt,15,Credit Card,4
+1764,77548,,5,99.99,Canada,Home & Kitchen,Vacuum Cleaner,,,
+,71549,9/10/2023,2,10,Mexico,Toys,Doll,,,
+1187,32134,5/29/2022,2,10,,Home & Kitchen,Microwave,10,Paypal,
+,81453,10/18/2023,3,99.99,Germany,Sports,Tennis Racket,15,,4
+,35878,,3,99.99,Spain,Sports,Tennis Racket,10,Credit Card,4
+,71667,13/03/2023,4,35,Australia,Books,Textbook,10,Cash,
+,87030,26/08/2023,2,10,Spain,Clothing,Hoodie,0,Credit Card,
+,31811,,2,99.99,Spain,Beauty,Lipstick,,Credit Card,2
+,37988,6/26/2023,1,20.5,USA,Home & Kitchen,Toaster,10,,3
+,36712,10/5/2024,,99.99,Nepal,Beauty,Hair Oil,15,Debit Card,3
+1414,32195,,,35,UK,Home & Kitchen,Toaster,15,,5
+,38387,9/6/2022,,99.99,Nigeria,Beauty,Perfume,10,Paypal,3
+1816,61228,5/6/2024,,,Nigeria,Electronics,Power Bank,10,,4
+1323,39558,1/11/2024,,50,Australia,Clothing,Cap,5,Credit Card,1
+3831,31710,4/3/2022,4,20.5,Japan,Books,Magazine,,Cash,2
+4278,58235,4/29/2023,3,35,India,Home & Kitchen,Pan Set,10,Cash,5
+3963,87130,6/1/2022,4,10,Indonesia,Sports,Tennis Racket,10,Credit Card,2
+,39663,6/3/2024,2,,UAE,Books,Novel,,Cash,
+4976,87595,17/03/2023,1,99.99,Malaysia,Toys,Toy Car,10,,3
+2588,34650,2/11/2023,,35,Canada,Clothing,Jacket,10,Debit Card,2
+1555,36079,29/01/2024,2,,France,Books,Comics,10,Paypal,2
+1561,37810,,1,35,Pakistan,Toys,Action Figure,0,,
+,74997,,,,USA,Toys,Doll,,Paypal,4
+1153,70875,7/12/2022,4,35,South Africa,Home & Kitchen,Mixer,10,Credit Card,2
+2600,79389,3/9/2023,5,35,Canada,Clothing,Cap,5,,2
+,87592,1/17/2022,1,20.5,Pakistan,Beauty,Perfume,5,Credit Card,2
+1851,38008,28/03/2023,4,50,Pakistan,Clothing,Jacket,15,Paypal,2
+,66326,22/12/2022,5,99.99,Sri Lanka,Books,Comics,10,Debit Card,1
+,81957,8/19/2023,2,,Canada,Electronics,Laptop,10,Debit Card,1
+1918,32488,,3,50,France,Clothing,Cap,5,Debit Card,3
+,39953,,1,50,,Electronics,Headphones,0,Paypal,
+1208,33996,9/24/2022,3,N/A,Turkey,Toys,Toy Car,10,,2
+2921,72248,11/25/2023,2,N/A,Germany,Beauty,Moisturizer,10,,1
+1503,68464,12/18/2022,,,Brazil,Books,Magazine,5,Debit Card,4
+1532,32953,,,20.5,India,Beauty,Face Wash,5,Cash,
+1204,31810,21/09/2023,,,Malaysia,Beauty,Moisturizer,0,Debit Card,5
+1357,33919,,1,99.99,,Clothing,Jacket,0,Paypal,1
+4065,64438,2/2/2023,2,50,Pakistan,Clothing,Jeans,10,Cash,2
+1428,67083,1/21/2023,4,20.5,Indonesia,Clothing,T-Shirt,,Credit Card,
+2237,39228,,2,35,Bangladesh,Beauty,Perfume,,Cash,1
+,39314,6/20/2022,1,N/A,Bangladesh,Home & Kitchen,Pan Set,10,Debit Card,
+,77992,,4,35,Indonesia,Toys,Toy Car,10,Paypal,2
+2306,60486,5/1/2023,4,50,Italy,Home & Kitchen,Microwave,0,Paypal,3
+1128,74175,,2,N/A,Japan,Beauty,Face Wash,0,Credit Card,3
+,88113,5/6/2022,2,10,Australia,Books,Comics,15,Debit Card,
+2215,38069,1/11/2024,,99.99,UAE,Sports,Cricket Bat,,Cash,5
+2391,63419,,,,South Africa,Beauty,Face Wash,0,Credit Card,3
+3885,54209,8/18/2022,,N/A,UK,Beauty,Hair Oil,5,Credit Card,3
+1481,38134,,5,,Brazil,Toys,Doll,15,Cash,1
+1669,37380,1/12/2022,1,99.99,,Electronics,Power Bank,5,Credit Card,1
+,84368,30/05/2023,2,99.99,Mexico,Books,Comics,10,Paypal,
+1893,57782,2/6/2024,,50,Japan,Sports,Tennis Racket,,Debit Card,1
+1593,62668,8/4/2024,,50,Malaysia,Beauty,Perfume,0,Credit Card,3
+,81824,8/11/2022,3,99.99,Brazil,Clothing,Cap,,Paypal,2
+,87707,,5,99.99,France,Books,Comics,,Debit Card,1
+,76858,,1,10,Pakistan,Toys,Board Game,0,Credit Card,3
+3228,31063,,5,35,India,Clothing,Jeans,10,Debit Card,3
+1463,60606,,2,99.99,,Clothing,Cap,,,1
+,78583,12/16/2023,4,99.99,South Africa,Electronics,Smart Watch,5,,5
+2669,83138,,2,N/A,South Africa,Sports,Cricket Bat,15,Debit Card,4
+2248,50053,7/20/2023,2,50,Nepal,Sports,Football,,Debit Card,2
+1969,64667,21/11/2023,2,10,Indonesia,Clothing,Cap,,Credit Card,5
+4854,38901,24/01/2024,,N/A,UK,Sports,Tennis Racket,,Credit Card,4
+1750,32645,6/21/2022,,99.99,,Books,Notebook,0,,2
+1615,36772,,4,50,South Africa,Sports,Yoga Mat,,Debit Card,5
+1852,33468,25/05/2023,3,,Saudi Arabia,Toys,Doll,,Paypal,5
+3354,36303,12/29/2022,5,N/A,Japan,Sports,Cricket Bat,,,5
+1379,31147,,3,35,Japan,Beauty,Perfume,5,,
+1246,37931,10/5/2023,4,35,,Beauty,Face Wash,15,,5
+1900,36029,4/1/2022,1,99.99,South Africa,Sports,Gym Gloves,10,,
+4905,39258,3/19/2022,4,35,Italy,Beauty,Lipstick,15,Debit Card,3
+1508,88110,18/12/2022,5,,Japan,Books,Comics,,,1
+1270,83735,22/03/2024,3,10,France,Home & Kitchen,Toaster,0,Credit Card,2
+1396,89441,,4,10,France,Sports,Cricket Bat,10,,
+1100,85364,28/02/2024,5,10,Brazil,Home & Kitchen,Toaster,10,,5
+1953,36695,5/1/2023,5,,Pakistan,Clothing,Cap,5,Paypal,
+,75583,,1,10,,Home & Kitchen,Mixer,,Cash,
+,34138,,3,50,Nepal,Clothing,T-Shirt,10,Paypal,4
+4743,39696,5/7/2023,5,N/A,Italy,Beauty,Face Wash,,Credit Card,1
+1503,35843,6/12/2023,4,35,Germany,Electronics,Laptop,,,1
+1532,76271,18/12/2022,3,,India,Sports,Gym Gloves,15,Debit Card,
+,33243,19/12/2022,1,35,,Books,Textbook,5,Debit Card,
+1320,69326,6/12/2022,5,10,Brazil,Clothing,T-Shirt,10,Paypal,4
+1481,38161,3/15/2024,3,,UK,Home & Kitchen,Vacuum Cleaner,5,,2
+,71824,3/25/2022,4,N/A,France,Home & Kitchen,Mixer,,,1
+1757,80952,,4,20.5,Spain,Electronics,Laptop,15,Debit Card,4
+1352,36259,,5,,UAE,Books,Notebook,5,Debit Card,5
+1243,32661,5/11/2024,2,,Mexico,Toys,Doll,10,Paypal,3
+1153,36951,,4,10,USA,Beauty,Face Wash,10,Paypal,4
+2499,33312,23/02/2024,4,20.5,Mexico,Home & Kitchen,Toaster,,Cash,1
+1819,34267,18/08/2023,1,35,Bangladesh,Books,Comics,5,Credit Card,3
+1910,34567,2/1/2022,5,99.99,,Clothing,Hoodie,0,Debit Card,2
+1138,81092,,5,20.5,USA,Books,Magazine,10,Debit Card,4
+,62055,20/10/2022,2,10,France,Beauty,Moisturizer,0,Paypal,
+1435,64839,11/8/2023,3,N/A,Mexico,Home & Kitchen,Pan Set,,Credit Card,3
+,38851,,2,35,Turkey,Sports,Gym Gloves,5,,
+,35209,,1,35,,Sports,Yoga Mat,15,Cash,3
+1129,52420,,5,99.99,Bangladesh,Electronics,Power Bank,,Cash,4
+1800,72307,,1,99.99,USA,Clothing,Cap,,,4
+,39431,,3,35,,Toys,Board Game,,,
+,36383,,3,50,Germany,Sports,Yoga Mat,,Credit Card,
+1863,80327,3/15/2022,2,20.5,Japan,Beauty,Face Wash,,,2
+,39669,25/03/2022,,50,UAE,Toys,Board Game,0,Cash,
+,84299,6/13/2024,4,N/A,Indonesia,Clothing,Hoodie,5,Credit Card,2
+4477,35026,,3,N/A,USA,Beauty,Hair Oil,10,Cash,5
+1987,87542,25/09/2023,,N/A,Spain,Electronics,Mobile Phone,,Credit Card,3
+1533,34621,3/12/2023,5,N/A,Sri Lanka,Home & Kitchen,Microwave,,Cash,
+1575,50779,2/12/2024,,10,Nepal,Beauty,Hair Oil,15,Credit Card,
+4224,50683,,1,99.99,Brazil,Toys,Action Figure,10,Debit Card,
+3963,31967,,3,10,,Books,Notebook,0,,
+,63905,4/3/2022,3,35,USA,Electronics,Mobile Phone,10,,4
+4747,36712,,,50,Australia,Clothing,Hoodie,5,Cash,2
+1441,71086,8/1/2022,1,,Sri Lanka,Books,Magazine,10,Paypal,
+,65689,31/05/2024,,35,Saudi Arabia,Clothing,T-Shirt,0,Credit Card,4
+1174,34931,21/09/2023,4,,France,Home & Kitchen,Microwave,15,Credit Card,
+,50307,24/02/2024,5,50,France,Clothing,Cap,,Credit Card,4
+,55016,,3,10,Malaysia,Books,Notebook,15,Cash,
+,31702,4/17/2024,5,N/A,India,Clothing,Jacket,5,,5
+,34416,1/9/2022,4,20.5,Mexico,Electronics,Laptop,0,Cash,
+4092,88795,6/26/2023,4,10,Nigeria,Home & Kitchen,Toaster,15,,
+1874,89768,9/24/2022,4,50,Mexico,Electronics,Smart Watch,,Cash,5
+,34885,,,35,Indonesia,Beauty,Moisturizer,15,Debit Card,
+,86228,21/07/2022,4,35,China,Sports,Football,,Credit Card,2
+1166,34367,18/02/2024,5,99.99,Sri Lanka,Home & Kitchen,Microwave,,Cash,5
+,50912,10/18/2022,2,50,Malaysia,Clothing,Jeans,0,,1
+,51519,9/6/2023,3,20.5,Germany,Beauty,Face Wash,10,Cash,
+4470,31570,2/11/2023,3,10,Spain,Clothing,T-Shirt,5,Credit Card,3
+,88768,,1,10,Canada,Books,Notebook,5,Cash,3
+1160,81635,,,99.99,Germany,Books,Textbook,5,Cash,5
+3285,35190,1/24/2024,5,,France,Sports,Football,5,Cash,1
+,33824,7/9/2022,,20.5,UK,Sports,Tennis Racket,,,1
+1201,75000,23/06/2023,3,50,Pakistan,Electronics,Laptop,5,,4
+1132,34873,8/3/2024,1,20.5,Indonesia,Sports,Cricket Bat,5,Credit Card,5
+,38795,8/21/2023,4,99.99,India,Home & Kitchen,Microwave,0,Paypal,2
+,64168,1/13/2022,,99.99,,Clothing,Jacket,0,Paypal,2
+1489,39344,7/8/2023,1,20.5,Sri Lanka,Clothing,T-Shirt,15,Paypal,2
+1423,68306,23/04/2024,1,N/A,UK,Clothing,T-Shirt,,Debit Card,5
+,66048,1/7/2022,4,N/A,Australia,Books,Novel,10,Cash,
+,33360,5/28/2022,2,35,Canada,Books,Textbook,,Cash,
+,38308,1/18/2024,,,Turkey,Electronics,Laptop,,Credit Card,2
+2446,33138,3/10/2023,4,,USA,Toys,Puzzle,,Paypal,5
+4975,36651,,,99.99,South Africa,Books,Notebook,10,Credit Card,4
+,85194,12/8/2023,1,10,South Africa,Electronics,Laptop,15,Cash,
+1538,77610,6/5/2023,4,35,Turkey,Beauty,Hair Oil,0,Credit Card,5
+1623,65120,,3,50,UK,Beauty,Lipstick,,Credit Card,4
+,31824,,,99.99,Indonesia,Home & Kitchen,Vacuum Cleaner,,,
+3561,34775,,4,99.99,China,Books,Textbook,,Paypal,3
+1687,36219,1/5/2022,5,20.5,France,Sports,Football,5,Credit Card,2
+1802,31238,15/01/2024,2,,Pakistan,Electronics,Laptop,5,Debit Card,1
+,76431,,1,99.99,UK,Electronics,Mobile Phone,,Credit Card,1
+3327,32951,3/7/2024,5,N/A,Pakistan,Beauty,Hair Oil,,Credit Card,4
+3807,39715,,,20.5,Malaysia,Beauty,Perfume,,Credit Card,4
+2229,37967,11/12/2022,,,Turkey,Electronics,Power Bank,5,Credit Card,1
+1383,35080,8/27/2023,,N/A,UK,Electronics,Power Bank,,Debit Card,4
+1778,37051,22/11/2022,5,10,Mexico,Electronics,Mobile Phone,5,,
+1924,32120,10/14/2023,1,20.5,UAE,Home & Kitchen,Microwave,5,Cash,4
+1688,35102,,4,35,Malaysia,Sports,Football,10,Paypal,4
+1239,67497,,,10,,Sports,Cricket Bat,,Credit Card,
+1557,68938,16/08/2022,2,,Germany,Beauty,Perfume,0,,3
+,64902,7/12/2023,4,35,Japan,Beauty,Face Wash,5,Debit Card,3
+1653,33285,3/31/2022,1,35,South Africa,Sports,Football,0,Paypal,1
+2417,68799,12/2/2022,,,India,Toys,Puzzle,15,,2
+1096,58374,23/02/2023,3,50,USA,Clothing,T-Shirt,0,Credit Card,
+,54498,8/5/2023,2,20.5,Pakistan,Toys,Puzzle,,Cash,5
+,35236,24/01/2024,1,50,Indonesia,Toys,Doll,0,Cash,
+,75088,,4,50,USA,Clothing,Jeans,10,Debit Card,1
+1309,70258,28/03/2024,,,Australia,Home & Kitchen,Pan Set,10,,4
+1668,58271,23/06/2022,4,99.99,Spain,Electronics,Smart Watch,0,,4
+1459,76226,1/2/2023,,N/A,USA,Books,Comics,,Paypal,4
+1376,38754,5/26/2024,4,99.99,Nepal,Books,Magazine,5,,1
+1211,39201,7/2/2022,3,10,Germany,Toys,Puzzle,5,Debit Card,3
+1414,77477,11/11/2022,,20.5,Germany,Books,Notebook,0,Cash,
+,36847,,,35,,Toys,Toy Car,5,Credit Card,4
+4352,56624,,,35,South Africa,Toys,Doll,0,,2
+,36527,,1,N/A,Mexico,Sports,Cricket Bat,5,Credit Card,5
+,76552,6/3/2023,5,N/A,UK,Beauty,Lipstick,0,Credit Card,2
+1772,68282,11/15/2022,,35,Pakistan,Electronics,Laptop,0,Paypal,1
+1017,82549,,,99.99,Indonesia,Home & Kitchen,Vacuum Cleaner,,,4
+3862,88972,3/5/2022,2,20.5,USA,Electronics,Mobile Phone,10,Credit Card,1
+1209,32620,,4,N/A,South Africa,Clothing,Jacket,15,Credit Card,
+,39312,2/2/2023,,N/A,Nigeria,Toys,Action Figure,,Cash,
+4552,57895,3/12/2022,,99.99,UAE,Toys,Toy Car,5,Cash,5
+1641,79074,20/06/2022,1,50,Germany,Clothing,T-Shirt,15,,
+1433,86210,,4,10,Brazil,Electronics,Laptop,5,Debit Card,2
+,82139,11/10/2023,,99.99,UAE,Toys,Board Game,5,Credit Card,4
+,31244,8/1/2022,,10,Spain,Sports,Yoga Mat,,Credit Card,1
+1795,63977,10/28/2022,,N/A,UK,Clothing,Jacket,15,,1
+,35252,,5,,Brazil,Books,Comics,0,Paypal,
+3826,87884,9/27/2023,1,50,UAE,Sports,Tennis Racket,0,Credit Card,
+,50632,2/2/2023,,20.5,India,Sports,Tennis Racket,,,
+1866,57373,,3,N/A,Germany,Home & Kitchen,Microwave,10,,
+1041,77858,25/01/2022,1,20.5,Australia,Home & Kitchen,Vacuum Cleaner,0,Debit Card,1
+1881,37359,7/1/2024,4,50,Malaysia,Home & Kitchen,Mixer,5,Debit Card,
+2269,31051,8/27/2022,,35,UK,Books,Magazine,10,Paypal,4
+,36243,4/19/2024,4,99.99,South Africa,Home & Kitchen,Microwave,10,Cash,
+,71595,2/28/2024,2,99.99,Nigeria,Books,Novel,10,,4
+1485,52989,9/23/2022,3,35,Indonesia,Beauty,Face Wash,15,Credit Card,2
+,38578,1/26/2024,4,N/A,India,Home & Kitchen,Toaster,10,Credit Card,4
+,36925,4/3/2022,4,20.5,,Electronics,Mobile Phone,,Paypal,5
+1250,36210,1/11/2024,4,,Mexico,Toys,Puzzle,0,Debit Card,4
+1432,33966,5/31/2023,,35,France,Home & Kitchen,Mixer,,Debit Card,3
+1604,39457,2/17/2023,,99.99,Spain,Home & Kitchen,Pan Set,15,Paypal,3
+3798,81341,22/01/2023,4,,Canada,Clothing,T-Shirt,,,4
+3472,38065,,,20.5,India,Sports,Gym Gloves,15,Credit Card,
+3782,36482,8/29/2023,5,50,China,Home & Kitchen,Vacuum Cleaner,0,Cash,
+1593,87860,1/3/2024,,99.99,Bangladesh,Electronics,Power Bank,15,Paypal,3
+,76967,,3,20.5,Brazil,Books,Novel,,,4
+2787,88449,,3,35,China,Sports,Tennis Racket,5,Debit Card,4
+2865,61813,5/14/2022,,N/A,Sri Lanka,Clothing,Hoodie,5,Paypal,1
+,32977,4/30/2024,,50,Italy,Electronics,Mobile Phone,5,Credit Card,
+,86207,1/16/2023,5,99.99,Saudi Arabia,Home & Kitchen,Microwave,5,Credit Card,
+4508,62267,,1,20.5,Italy,Sports,Yoga Mat,,,1
+2100,53968,2/12/2023,2,,Spain,Electronics,Headphones,15,Credit Card,2
+4633,72441,2/4/2023,4,20.5,Nigeria,Books,Novel,5,Debit Card,2
+2543,57414,,2,35,China,Sports,Gym Gloves,15,Paypal,2
+,71305,7/31/2023,5,20.5,Saudi Arabia,Beauty,Face Wash,,,
+1855,33084,,1,,France,Beauty,Lipstick,15,Debit Card,5
+4367,31782,,2,99.99,Italy,Books,Novel,0,Debit Card,
+2356,33723,24/10/2023,4,50,Canada,Sports,Gym Gloves,,Paypal,3
+1100,38124,4/9/2023,3,10,Italy,Beauty,Hair Oil,,Paypal,3
+1145,50670,,,N/A,India,Books,Comics,5,Debit Card,
+4613,35579,,,N/A,Nigeria,Electronics,Headphones,0,,2
+1844,35008,9/11/2022,3,20.5,India,Clothing,Jeans,5,Cash,
+1733,36531,2/3/2022,3,N/A,,Books,Notebook,,Credit Card,2
+1927,68667,4/12/2024,5,99.99,Canada,Books,Comics,5,Cash,
+1107,51746,3/13/2023,2,99.99,Germany,Clothing,Hoodie,10,Cash,1
+1869,75743,3/9/2024,1,50,UK,Clothing,Cap,5,Debit Card,4
+,68209,4/16/2023,1,50,Turkey,Sports,Cricket Bat,5,,
+,56408,3/8/2023,,10,Spain,Books,Notebook,0,Debit Card,1
+,81028,,2,,Mexico,Sports,Tennis Racket,,Paypal,3
+,57894,1/27/2022,2,,Pakistan,Sports,Football,,,2
+1562,62520,6/14/2024,3,35,Saudi Arabia,Toys,Board Game,,Debit Card,
+1314,59147,7/4/2022,1,35,Australia,Home & Kitchen,Toaster,,Credit Card,5
+,33078,,4,99.99,Indonesia,Books,Comics,10,Debit Card,2
+1360,71059,,5,20.5,France,Electronics,Power Bank,,Credit Card,3
+1604,75048,2/12/2022,4,50,,Books,Magazine,5,,5
+4574,36575,,3,10,South Africa,Beauty,Moisturizer,,Cash,4
+,84556,,5,35,South Africa,Home & Kitchen,Mixer,5,Cash,
+1118,35360,18/03/2024,2,50,Germany,Sports,Gym Gloves,,,
+,32313,6/1/2024,3,20.5,South Africa,Clothing,Jacket,5,Debit Card,2
+,33752,19/04/2022,1,N/A,France,Books,Notebook,,Paypal,2
+1371,35025,1/14/2022,2,,Japan,Beauty,Lipstick,,,2
+,33789,9/13/2023,,10,Germany,Beauty,Face Wash,15,Paypal,1
+,78200,2/23/2022,,N/A,Brazil,Home & Kitchen,Toaster,10,Credit Card,1
+4020,87678,21/02/2022,5,10,,Toys,Puzzle,5,,5
+2899,34640,5/6/2024,2,35,Malaysia,Clothing,Jeans,0,Paypal,1
+,68414,,4,50,Indonesia,Beauty,Perfume,15,Credit Card,4
+1638,73198,,4,35,UAE,Sports,Cricket Bat,5,Paypal,2
+1535,59608,4/1/2023,4,10,Canada,Clothing,Jacket,15,Credit Card,1
+,58992,31/12/2023,3,35,Saudi Arabia,Toys,Board Game,10,Cash,1
+,36931,21/04/2023,4,20.5,,Toys,Puzzle,0,Paypal,
+1284,35545,9/11/2023,,35,Brazil,Toys,Puzzle,10,Cash,1
+,87003,30/03/2022,4,10,Malaysia,Beauty,Hair Oil,5,Credit Card,2
+,55096,11/12/2022,2,50,China,Home & Kitchen,Vacuum Cleaner,10,Paypal,
+,87373,3/2/2023,5,N/A,Japan,Home & Kitchen,Microwave,,Cash,
+1672,35601,5/21/2022,,N/A,Canada,Clothing,Hoodie,,Paypal,
+1103,34721,,1,,UAE,Toys,Doll,15,Cash,2
+1898,89544,,,35,,Electronics,Smart Watch,5,Paypal,5
+1600,32537,2/21/2022,,50,Spain,Electronics,Headphones,,,3
+3980,38395,10/2/2023,4,10,China,Home & Kitchen,Microwave,15,Paypal,2
+3266,74100,,,20.5,Saudi Arabia,Toys,Toy Car,,,5
+4786,87805,,2,50,Japan,Electronics,Mobile Phone,10,Credit Card,
+,76994,25/10/2022,4,10,India,Sports,Yoga Mat,5,Debit Card,4
+,81656,9/9/2022,5,99.99,Turkey,Home & Kitchen,Pan Set,15,Credit Card,5
+,87659,,,20.5,Pakistan,Clothing,Jeans,,Paypal,5
+,31764,12/8/2022,4,35,,Toys,Board Game,5,,4
+1627,38890,6/23/2022,,N/A,Indonesia,Clothing,Jacket,10,Cash,
+1220,31961,,5,20.5,South Africa,Electronics,Headphones,15,Credit Card,5
+,63496,3/30/2023,,,Turkey,Books,Comics,5,,
+1281,55248,18/08/2023,2,N/A,UK,Electronics,Smart Watch,,Debit Card,4
+,55926,,,20.5,Italy,Toys,Doll,10,,3
+1311,88755,6/11/2022,5,35,Nepal,Clothing,Hoodie,5,Cash,3
+1467,77429,26/04/2022,,10,Bangladesh,Toys,Board Game,5,Credit Card,5
+1364,33660,1/3/2022,4,20.5,South Africa,Home & Kitchen,Vacuum Cleaner,,Cash,
+1901,54937,16/12/2023,,10,Brazil,Books,Textbook,,Credit Card,4
+1908,72527,11/11/2023,,35,Turkey,Toys,Toy Car,,Cash,
+1381,63088,6/8/2023,,,Brazil,Beauty,Perfume,0,,2
+1196,83631,,1,50,Sri Lanka,Sports,Tennis Racket,0,Paypal,2
+1524,35849,,5,20.5,UAE,Sports,Cricket Bat,0,Credit Card,4
+1447,38650,8/17/2023,5,,USA,Clothing,Cap,15,,1
+3456,38737,7/1/2024,,10,Germany,Sports,Yoga Mat,0,,1
+,33870,9/3/2022,,10,Nepal,Beauty,Perfume,10,Cash,3
+3581,36472,1/26/2023,,99.99,USA,Clothing,Jacket,5,Credit Card,
+1584,34521,,,,Pakistan,Toys,Doll,,Credit Card,2
+,38394,,3,20.5,India,Clothing,Hoodie,5,,4
+,33178,2/12/2024,1,20.5,Saudi Arabia,Toys,Toy Car,10,Debit Card,
+1816,37016,,3,99.99,Pakistan,Books,Comics,5,Paypal,
+,38401,7/14/2023,,99.99,Mexico,Toys,Doll,10,Cash,
+1945,37606,,2,20.5,,Sports,Gym Gloves,,,4
+1417,81758,,1,20.5,India,Home & Kitchen,Vacuum Cleaner,10,Debit Card,5
+3308,37288,25/02/2023,2,20.5,USA,Beauty,Moisturizer,15,,5
+1704,60113,1/22/2023,2,35,UAE,Sports,Cricket Bat,,Paypal,
+1561,37097,12/29/2023,5,50,Japan,Sports,Yoga Mat,0,Debit Card,3
+1357,32567,6/6/2024,1,99.99,Bangladesh,Beauty,Perfume,,Debit Card,
+1040,35744,2/17/2023,2,20.5,Sri Lanka,Beauty,Face Wash,,Paypal,4
+,31553,,,,Nigeria,Clothing,Cap,0,Debit Card,3
+,39905,4/11/2024,2,99.99,India,Electronics,Mobile Phone,,,5
+1263,58875,28/01/2023,,,Bangladesh,Sports,Tennis Racket,,Debit Card,1
+1131,37989,,2,35,,Beauty,Perfume,0,,3
+1947,37062,,4,20.5,Germany,Beauty,Hair Oil,0,Credit Card,4
+,32646,,2,,UAE,Toys,Doll,15,Debit Card,
+,82161,,,N/A,France,Books,Notebook,10,Debit Card,1
+,56352,26/09/2023,4,,Brazil,Toys,Puzzle,15,Debit Card,
+1924,87722,3/5/2022,4,35,Malaysia,Clothing,T-Shirt,10,,
+1303,81737,14/03/2022,5,,India,Books,Magazine,5,Cash,
+,31001,9/10/2022,,35,Italy,Clothing,Jacket,0,Paypal,
+1923,38707,4/3/2024,,20.5,USA,Beauty,Moisturizer,,Credit Card,
+4199,81674,,,99.99,Nigeria,Sports,Football,10,Credit Card,3
+3478,86591,7/2/2022,2,35,Saudi Arabia,Home & Kitchen,Pan Set,,Credit Card,
+1377,75716,,3,N/A,Nepal,Toys,Action Figure,0,Paypal,1
+1207,88524,,,50,Japan,Toys,Toy Car,10,Cash,1
+1907,85778,9/12/2022,1,N/A,,Beauty,Lipstick,,Credit Card,
+1885,34908,,4,50,South Africa,Clothing,Cap,15,Cash,
+3213,75673,,,50,Malaysia,Toys,Action Figure,10,Credit Card,4
+1308,36612,7/31/2022,,99.99,Canada,Home & Kitchen,Pan Set,0,Debit Card,5
+3060,78311,,3,N/A,Indonesia,Sports,Tennis Racket,,,4
+1220,39861,11/27/2023,2,10,USA,Electronics,Power Bank,0,Debit Card,
+,35516,,,50,India,Books,Textbook,10,Debit Card,
+1708,31529,3/5/2022,2,,,Sports,Cricket Bat,,Debit Card,2
+,35466,,2,99.99,China,Electronics,Headphones,10,Paypal,
+4652,32309,11/27/2023,,99.99,Japan,Toys,Action Figure,15,Credit Card,
+,37348,9/7/2022,3,,Italy,Beauty,Hair Oil,5,Debit Card,3
+1950,32207,1/8/2023,4,10,Germany,Toys,Board Game,10,Paypal,
+3117,31849,2/2/2023,1,20.5,India,Beauty,Moisturizer,15,Paypal,2
+1643,38027,5/13/2022,3,10,Bangladesh,Sports,Football,,,1
+1484,65548,30/08/2023,5,10,Germany,Electronics,Laptop,0,,3
+,38659,2/25/2024,,20.5,UK,Home & Kitchen,Microwave,,Debit Card,4
+2762,36715,1/7/2023,5,,Nepal,Electronics,Mobile Phone,10,Cash,
+1865,35612,23/11/2022,2,10,Australia,Home & Kitchen,Vacuum Cleaner,,Credit Card,1
+1661,36699,,,99.99,Canada,Beauty,Face Wash,10,Cash,
+1711,74313,6/6/2024,4,20.5,Bangladesh,Home & Kitchen,Pan Set,15,Credit Card,3
+,56720,29/08/2022,4,10,South Africa,Toys,Toy Car,15,Credit Card,4
+,76614,10/18/2023,4,N/A,Saudi Arabia,Electronics,Headphones,0,Cash,5
+3788,78915,23/07/2022,1,35,Brazil,Home & Kitchen,Mixer,0,Cash,4
+1253,35188,8/9/2023,5,50,Canada,Electronics,Headphones,5,,3
+,73944,,5,35,,Home & Kitchen,Pan Set,10,Paypal,5
+3345,39708,7/5/2022,,50,Indonesia,Electronics,Headphones,10,Paypal,5
+3268,39108,,3,50,Nepal,Clothing,Hoodie,,Paypal,4
+1201,38835,,3,,USA,Beauty,Face Wash,,Cash,2
+3308,36896,13/04/2022,,,Australia,Books,Novel,5,Debit Card,
+3861,34446,11/9/2023,,,China,Books,Textbook,0,Debit Card,
+,80158,21/02/2024,3,20.5,France,Beauty,Perfume,15,Paypal,2
+1446,59220,7/2/2023,2,,Nepal,Beauty,Perfume,5,Credit Card,5
+2733,33870,8/3/2022,,10,Germany,Electronics,Headphones,5,Cash,4
+1611,36429,6/22/2023,5,99.99,UAE,Toys,Action Figure,10,Cash,2
+1806,54550,3/23/2023,4,35,Pakistan,Sports,Football,0,Paypal,
+,33101,8/6/2022,2,,Spain,Home & Kitchen,Microwave,15,Debit Card,2
+,35894,12/18/2023,,99.99,,Electronics,Smart Watch,15,Credit Card,2
+,33776,1/23/2023,1,20.5,Sri Lanka,Beauty,Lipstick,10,Credit Card,
+1404,33167,21/03/2024,,50,Pakistan,Books,Novel,,Paypal,4
+2857,31039,3/15/2023,5,20.5,Pakistan,Books,Notebook,0,Debit Card,
+,67194,10/11/2023,,99.99,Nigeria,Sports,Cricket Bat,15,Cash,3
+1427,38936,,,99.99,,Beauty,Moisturizer,0,Cash,5
+,31232,,4,10,Malaysia,Toys,Board Game,,Debit Card,2
+2214,34644,23/03/2023,,N/A,UK,Books,Comics,5,Credit Card,2
+4299,36399,,5,,UAE,Toys,Board Game,5,Cash,1
+1859,60705,,2,,Mexico,Electronics,Mobile Phone,,Cash,4
+1507,39257,6/15/2022,,,Mexico,Home & Kitchen,Microwave,,,2
+,36403,10/21/2023,4,99.99,Turkey,Clothing,Jeans,,Credit Card,4
+1361,37566,16/12/2023,,20.5,Indonesia,Toys,Action Figure,,,5
+1432,38271,,4,10,,Books,Notebook,15,Debit Card,
+4514,63194,9/28/2023,1,N/A,South Africa,Beauty,Perfume,0,,2
+,36838,,4,50,Spain,Sports,Football,,,4
+,36873,20/06/2023,4,,UK,Home & Kitchen,Toaster,5,Cash,4
+,39536,,1,10,Germany,Sports,Tennis Racket,10,Credit Card,3
