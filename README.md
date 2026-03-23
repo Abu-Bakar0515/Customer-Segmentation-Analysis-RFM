@@ -70,7 +70,7 @@ Revenue contribution by segment
 RFM score distribution
 
 ⚠️ Business facing a problem that the sales are dropping from January. 
-I make some problem soling decision by visualizing them somw of my recommendations are given 
+I make some problem solving decision by visualizing them some of my recommendations are given 
 - Focus marketing campaigns during January to maximize seasonal sales
 - Offer discounts on digital payments to reduce COD dependency
 - Retarget loyal customers with personalized offers
